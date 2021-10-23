@@ -1,0 +1,744 @@
+[03/05/2021, 11:25:28 AM] Data Sci Training Program: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[03/05/2021, 11:25:28 AM] ‎‪+233 26 633 2394‬ created this group
+[03/05/2021, 1:35:46 PM] ‎+233 26 633 2394 added you
+[03/05/2021, 2:46:51 PM] Seyram: Well noted
+[03/05/2021, 3:10:35 PM] ‎+233 26 633 2394 added ‪+233 24 506 6806‬
+[03/05/2021, 3:16:27 PM] Derek: Hello everyone joining us for the course please download and install the following:
+
+1. https://dev.mysql.com/downloads/windows/installer/5.7.html
+
+2. https://www.anaconda.com/products/individual
+
+3. https://www.python.org/downloads/
+
+4. https://code.visualstudio.com/download.
+
+5. https://public.tableau.com/en-gb/s/download?utm_campaign=2018128_TPublic_NRTR_EMEA_en-GB_2019-10-10_T1-Get-Public&utm_medium=Email&utm_source=Eloqua&domain=gmail.com&eid=CTBLS000021846898&elqTrackId=4cc76dac6be741b49c329deac0a97a64&elq=2aae76b3eb434b5c95b70c65c6d0dd34&elqaid=40270&elqat=1&elqCampaignId=39327
+
+Depending on the operating system (windows, Linux or Mac) look out for your version.
+If you’ve any challenges please do well to get in touch.
+
+
+See you on Tuesday morning in person.
+
+Happy learning
+[03/05/2021, 3:20:35 PM] ‪+233 24 506 6806‬: Well noted with thanks🤝🏾
+[03/05/2021, 3:24:44 PM] ‪+233 54 047 7782‬: Noted sir thanks
+[03/05/2021, 7:54:51 PM] ‎You're now an admin
+[04/05/2021, 8:30:34 AM] ‪+233 24 365 2254‬: Traffic on my way is very strange today. Perhaps, todays session could be extended few minutes 🤔 ahead of the o'clock. 😀
+[04/05/2021, 8:32:05 AM] ‪+233 26 270 7834‬: 😃
+[04/05/2021, 8:33:04 AM] ‪+233 55 723 3116‬: 😂
+[04/05/2021, 8:33:34 AM] ‪+233 24 365 2254‬: Hmm
+[04/05/2021, 8:37:49 AM] ‪+233 24 506 6806‬: Infact.... Same here
+
+Facilitator, please I kindly plead for my being a bit late for the class today.
+
+Thank you.
+[04/05/2021, 8:52:02 AM] ‪+233 26 270 7834‬: Hello,
+Where is the training room please
+[04/05/2021, 10:42:49 AM] ‎+233 26 633 2394 added ‎‎‎‎‎‎‎+233 50 708 6317, Afriyie@, +233 24 836 0010, +233 24 885 2402, +233 57 558 5938, +233 50 858 7628, +233 26 814 0240, and Lydia🎁
+[04/05/2021, 10:43:15 AM] ‎+233 26 633 2394 added ‪+233 27 810 6781‬
+‎[04/05/2021, 3:16:55 PM] Derek: Tableau Tutorial for Beginners.pdf • ‎87 pages ‎document omitted
+‎[04/05/2021, 3:17:44 PM] Derek: Superstore.xls ‎document omitted
+‎[04/05/2021, 3:19:51 PM] Derek: Learning Path_ Your Guide to become a Tableau Expert.pdf • ‎8 pages ‎document omitted
+‎[04/05/2021, 3:20:25 PM] Derek: GTL Data science (1).pptx • ‎17 slides ‎document omitted
+[04/05/2021, 7:07:55 PM] ‪+233 54 626 2919‬: https://www.data4chan.ge/we-are-hiring
+[05/05/2021, 12:41:00 AM] ‪+233 54 047 7782‬: Thanks
+‎[05/05/2021, 10:47:30 AM] Derek: Tableau-Public-tutorial.pdf • ‎36 pages ‎document omitted
+‎[05/05/2021, 11:17:43 AM] Khalid: world-happiness-report-2019.csv ‎document omitted
+‎[05/05/2021, 11:17:53 AM] Khalid: world-happiness-report-2021.csv ‎document omitted
+‎[05/05/2021, 11:17:55 AM] Khalid: world-happiness-report.csv ‎document omitted
+‎[05/05/2021, 11:54:15 AM] Derek: series-g-2020-en.xlsx • ‎159 sheets ‎document omitted
+‎[05/05/2021, 12:26:37 PM] Derek: Tableau-Sample-Data.xlsx • ‎4 sheets ‎document omitted
+[06/05/2021, 9:27:01 AM] ‪+233 54 047 7782‬: Gm
+[06/05/2021, 9:34:50 AM] ‪+233 26 814 0240‬: M
+‎[06/05/2021, 1:33:18 PM] Derek: ‎image omitted
+[06/05/2021, 3:01:09 PM] ‎+233 26 633 2394 added ‪+233 20 749 5919‬
+[06/05/2021, 7:34:37 PM] ‎‪+233 24 386 0010‬ left
+[07/05/2021, 3:24:11 PM] Derek: Good afternoon everyone 
+Hope you good.
+I’ve some few materials to share with you for the weekend
+‎[07/05/2021, 3:24:32 PM] Derek: Python for Data Science – Tutorial for Beginners #1 – Python Basics.pdf • ‎25 pages ‎document omitted
+[07/05/2021, 3:25:18 PM] Derek: This is our introduction to Python Data Types and variables yesterday 
+
+A recap of everything we discussed and worked on is here
+[07/05/2021, 3:25:24 PM] ‪+233 26 270 7834‬: I am good.
+Thank you👌🏾
+‎[07/05/2021, 3:26:15 PM] Derek: What is data science.pdf • ‎26 pages ‎document omitted
+[07/05/2021, 3:26:29 PM] ‪+233 26 270 7834‬: Thanks Sir
+[07/05/2021, 3:27:47 PM] ‪+233 54 100 6410‬: Danke!
+[07/05/2021, 3:28:07 PM] Derek: Now for this material page 17 to the last contain 5 data science use cases.
+
+I want you to read the full material.
+Develop on your own another 5 use cases.
+
+You’re presenting this on Monday.
+‎[07/05/2021, 3:28:21 PM] Derek: Presentation Tips for Data Professionals.pdf • ‎20 pages ‎document omitted
+[07/05/2021, 3:29:43 PM] Derek: Now presentation is one key skill of a Good Data scientist.
+We’ve a presentation to make on the Tableau assignment you’re working on the Canadian dataset.
+This material is useful to sharpen your presentation skills
+‎[07/05/2021, 3:30:52 PM] Derek: Data resistance – How to evangelize data-driven culture.pdf • ‎10 pages ‎document omitted
+[07/05/2021, 3:31:03 PM] ‪+233 24 365 2254‬: Seen and well noted ✅
+[07/05/2021, 3:31:50 PM] Derek: Now last time I spoke about Data and people.
+
+Why we’ve data resistance organizations.
+This is a useful material
+‎[07/05/2021, 3:32:31 PM] Derek: Data Science for Business.pdf • ‎27 pages ‎document omitted
+[07/05/2021, 3:33:21 PM] Derek: Data science is two achieve two important goals.
+Data science for Business is the ish.
+
+This material is all you need.
+[07/05/2021, 3:33:33 PM] ‪+233 20 004 7776‬: Thank you so much
+[07/05/2021, 3:33:36 PM] Derek: Have a great weekend.
+[07/05/2021, 4:22:40 PM] ‪+233 55 723 3116‬: Thank you
+[07/05/2021, 4:23:32 PM] ‪+233 24 370 4989‬: Thank you Sir
+[07/05/2021, 5:37:30 PM] ‪+233 50 858 7628‬: Sir please is the  5 user case an individual work?.
+[07/05/2021, 6:03:30 PM] ‪+233 54 047 7782‬: Thanks boss
+[07/05/2021, 6:04:45 PM] Derek: Individual
+[07/05/2021, 6:04:56 PM] Derek: I’m sure you can get more than 5
+[07/05/2021, 6:25:34 PM] ‪+233 50 858 7628‬: Ok sir, thanks 👍
+[09/05/2021, 6:24:11 AM] ‪+233 55 723 3116‬: HAPPY MOTHERS DAY TO ALL THE WONDERFUL WOMEN ON THIS PLATFORM. MAY GOD BLESS YOU ALL!!!!
+[09/05/2021, 6:26:55 AM] Lydia🎁: I am. Happy.   Of.  You
+[09/05/2021, 8:24:23 AM] ‪+233 54 047 7782‬: 👍👍
+[09/05/2021, 8:57:08 AM] Lydia🎁: Ei wat was I typing
+[09/05/2021, 8:57:23 AM] Lydia🎁: Thanks dearie
+[09/05/2021, 4:39:36 PM] ‪+233 20 749 5919‬: Good Afternoon colleagues cam someone pls resend the the canadian dataset and also the queations attached to it .Thank you
+‎[09/05/2021, 4:40:53 PM] ‪+233 24 370 4989‬: Tableau-Sample-Data.xlsx • ‎4 sheets ‎document omitted
+‎[09/05/2021, 4:41:12 PM] ‪+233 24 370 4989‬: Tableau-Public-tutorial.pdf • ‎36 pages ‎document omitted
+[09/05/2021, 4:41:30 PM] ‪+233 24 370 4989‬: The questions or guidelines are in the pdf
+[09/05/2021, 4:42:06 PM] ‪+233 24 370 4989‬: Hope u are talking of the group assignment
+[09/05/2021, 4:42:24 PM] ‪+233 20 749 5919‬: Thank you
+[09/05/2021, 4:42:31 PM] ‪+233 20 749 5919‬: Yes please
+[09/05/2021, 4:49:33 PM] ‪+233 24 370 4989‬: Welcome
+[10/05/2021, 8:24:47 AM] ‪+233 54 047 7782‬: Gm
+[10/05/2021, 8:27:58 AM] ‪+233 54 047 7782‬: Pls caught up in traffic pls
+‎[10/05/2021, 1:20:14 PM] Khalid: Python Data Structures (Python for Data Science Basics #2).pdf • ‎20 pages ‎document omitted
+[10/05/2021, 1:30:29 PM] ‪+233 54 173 8108‬: ‎‎Your security code with ‪+233 54 173 8108‬ changed. ‎Tap to learn more.
+‎[10/05/2021, 2:59:06 PM] Derek: Defining Your Own Python Function (1).pdf • ‎63 pages ‎document omitted
+[11/05/2021, 12:05:08 PM] ‪+233 26 270 7834‬: 👆🏾
+[11/05/2021, 12:06:38 PM] ‪+233 26 270 7834‬: Hello everyone joining us for the course please download and install the following:
+
+1. https://dev.mysql.com/downloads/windows/installer/5.7.html
+
+2. https://www.anaconda.com/products/individual
+
+3. https://www.python.org/downloads/
+
+4. https://code.visualstudio.com/download.
+
+5. https://public.tableau.com/en-gb/s/download?utm_campaign=2018128_TPublic_NRTR_EMEA_en-GB_2019-10-10_T1-Get-Public&utm_medium=Email&utm_source=Eloqua&domain=gmail.com&eid=CTBLS000021846898&elqTrackId=4cc76dac6be741b49c329deac0a97a64&elq=2aae76b3eb434b5c95b70c65c6d0dd34&elqaid=40270&elqat=1&elqCampaignId=39327
+
+Depending on the operating system (windows, Linux or Mac) look out for your version.
+If you’ve any challenges please do well to get in touch.
+
+
+See you on Tuesday morning in person.
+
+Happy learning
+‎[11/05/2021, 4:47:14 PM] Khalid: Python Built-in Functions and Methods (Python for Data Science Basics #3).pdf • ‎25 pages ‎document omitted
+‎[11/05/2021, 4:47:14 PM] Khalid: Python If Statements Explained (Python for Data Science Basics #4).pdf • ‎13 pages ‎document omitted
+‎[11/05/2021, 4:47:15 PM] Khalid: Python _while_ Loops (Indefinite Iteration).pdf • ‎16 pages ‎document omitted
+‎[11/05/2021, 4:47:15 PM] Khalid: Conditional Statements in Python.pdf • ‎22 pages ‎document omitted
+‎[11/05/2021, 4:47:16 PM] Khalid: Python Data Structures (Python for Data Science Basics #2).pdf • ‎20 pages ‎document omitted
+‎[11/05/2021, 4:47:17 PM] Khalid: Python _for_ Loops (Definite Iteration).pdf • ‎16 pages ‎document omitted
+‎[11/05/2021, 4:47:17 PM] Khalid: day 5.pdf • ‎25 pages ‎document omitted
+‎[12/05/2021, 9:45:47 AM] Khalid: pandas_tutorial_read - pandas_tutorial_read.csv ‎document omitted
+‎[12/05/2021, 9:45:47 AM] Khalid: zoo - zoo.csv ‎document omitted
+[12/05/2021, 3:24:22 PM] ‎‪+233 24 017 2091‬ left
+[12/05/2021, 5:40:04 PM] ‪+233 54 047 7782‬: Boss Derrick pls if you can give us tutorials on pandas we will be grateful
+[12/05/2021, 5:40:17 PM] ‪+233 54 047 7782‬: Pls my humble request
+[13/05/2021, 5:21:57 AM] Derek: Sure
+[13/05/2021, 5:22:03 AM] Derek: Sending them now
+‎[13/05/2021, 5:37:43 AM] Derek: Python_Tutorial_1620884046.pdf • ‎170 pages ‎document omitted
+[13/05/2021, 5:38:46 AM] Derek: Since we started here so use this first as a guide on the subsequent stuff we do 
+You can always make references here
+‎[13/05/2021, 5:39:46 AM] Derek: Working_with_Dates_in_Pandas_1620883795.pdf • ‎13 pages ‎document omitted
+[13/05/2021, 5:39:55 AM] ‪+233 50 858 7628‬: Ok 👍
+[13/05/2021, 5:40:14 AM] Derek: So this is where we are
+[13/05/2021, 5:42:05 AM] ‪+233 54 047 7782‬: 🙏
+[13/05/2021, 5:42:16 AM] Derek: So your assignment is to write the codes in this from cell 1 to 30.
+Will be checked first early tomorrow morning 
+
+
+Everyone should do it
+[13/05/2021, 5:43:35 AM] ‪+233 54 047 7782‬: Ok thanks sir
+[13/05/2021, 5:44:04 AM] Derek: Cell 2 is creation of a dataframe
+
+So create that with names of your colleagues in the class
+
+Instead of 4 on the pdf make it 10 names
+[13/05/2021, 5:45:00 AM] ‪+233 55 723 3116‬: Well noted sir
+[13/05/2021, 5:57:49 AM] ‪+233 50 858 7628‬: Derek the page is from 1-13
+[13/05/2021, 5:58:37 AM] Derek: Which page please
+[13/05/2021, 5:58:58 AM] ‪+233 50 858 7628‬: This one
+[13/05/2021, 5:59:06 AM] Derek: Yh I know
+[13/05/2021, 5:59:15 AM] ‪+233 50 858 7628‬: Ok
+[13/05/2021, 5:59:24 AM] Derek: But I said work on only cell 1 to 30
+[13/05/2021, 5:59:53 AM] ‪+233 50 858 7628‬: 👍
+[13/05/2021, 7:44:35 AM] Rachael@class: Please can i get Ernest's email address
+[13/05/2021, 7:52:19 AM] Khalid: ernest@ghanatechlab.com
+[13/05/2021, 8:52:48 AM] Rachael@class: Thank you
+‎[13/05/2021, 1:40:13 PM] ‪+233 50 708 6317‬: ‎image omitted
+[13/05/2021, 1:40:33 PM] ‪+233 50 708 6317‬: Hello Boss Derek
+[13/05/2021, 1:41:07 PM] ‪+233 50 708 6317‬: Please i got this error while doing the assignment
+[13/05/2021, 1:42:37 PM] ‪+233 50 858 7628‬: Please check the way you spell InteractiveShell
+[13/05/2021, 1:44:20 PM] ‪+233 50 708 6317‬: Thanks boss
+[13/05/2021, 1:44:22 PM] ‪+233 50 858 7628‬: Is should be 
+Import InteractiveShell not 
+Import interactiveShell
+[13/05/2021, 1:45:58 PM] Derek: Sorted ?
+[13/05/2021, 1:46:13 PM] Derek: @Racheal here ?
+[13/05/2021, 1:46:29 PM] Rachael@class: Yes please
+[13/05/2021, 1:46:48 PM] Derek: Alright thanks
+[13/05/2021, 2:01:46 PM] ‪+233 24 962 7687‬: ‎This message was deleted.
+‎[13/05/2021, 2:02:28 PM] ‪+233 24 962 7687‬: ‎image omitted
+[13/05/2021, 2:02:32 PM] ‪+233 24 962 7687‬: Any help
+[13/05/2021, 2:04:07 PM] Derek: lol that’s the first cell you’re running
+[13/05/2021, 2:04:17 PM] Derek: And you doing so without any library
+[13/05/2021, 2:04:22 PM] Derek: Eeii chairman
+[13/05/2021, 2:04:32 PM] ‪+233 24 962 7687‬: No
+[13/05/2021, 2:04:45 PM] ‪+233 24 962 7687‬: My first cell worked
+[13/05/2021, 2:05:01 PM] ‪+233 24 962 7687‬: Am on the second cell
+[13/05/2021, 2:05:11 PM] Derek: But it shows it’s the first cell
+‎[13/05/2021, 2:06:00 PM] Derek: ‎image omitted
+‎[13/05/2021, 2:06:34 PM] ‪+233 24 962 7687‬: ‎image omitted
+[13/05/2021, 2:07:25 PM] Derek: I can’t see the error
+‎[13/05/2021, 2:09:05 PM] ‪+233 24 962 7687‬: ‎image omitted
+[13/05/2021, 2:10:34 PM] Derek: I’m sure you know what you’ve done wrong
+[13/05/2021, 2:10:52 PM] ‪+233 24 962 7687‬: Lol
+[13/05/2021, 2:12:13 PM] Derek: It’s so clear from this code
+[13/05/2021, 2:12:44 PM] ‪+233 24 962 7687‬: Hmmm am working on it
+[13/05/2021, 2:13:18 PM] Derek: Is it not cell 3 from the pdf ?
+[13/05/2021, 2:13:36 PM] ‪+233 24 962 7687‬: Yes
+[13/05/2021, 2:14:12 PM] Derek: Okay 
+
+So you know it
+[13/05/2021, 2:14:33 PM] Derek: And you’re not commenting your codes
+‎[13/05/2021, 2:18:02 PM] ‪+233 54 047 7782‬: ‎image omitted
+[13/05/2021, 2:18:19 PM] ‪+233 54 047 7782‬: Pls my only the names came
+[13/05/2021, 2:18:54 PM] Derek: Yes
+[13/05/2021, 2:19:02 PM] Derek: Were you expecting something different?
+[13/05/2021, 2:19:23 PM] ‪+233 54 047 7782‬: Sir pls am i correct
+[13/05/2021, 2:19:51 PM] Derek: Do you have the pdf ?
+[13/05/2021, 2:20:21 PM] ‪+233 54 047 7782‬: Yes pls
+[13/05/2021, 2:21:08 PM] Derek: Then engage it
+[13/05/2021, 2:21:20 PM] ‪+233 54 047 7782‬: But that is not how it is on the pdf wen it was run
+[13/05/2021, 2:22:28 PM] Derek: And that’s not how you wrote the codes in the pdf
+‎[13/05/2021, 2:23:03 PM] ‪+233 24 962 7687‬: ‎image omitted
+‎[13/05/2021, 2:23:19 PM] ‪+233 24 962 7687‬: ‎image omitted
+[13/05/2021, 2:23:44 PM] Derek: Thank you
+‎[13/05/2021, 2:24:06 PM] ‪+233 24 962 7687‬: ‎image omitted
+[13/05/2021, 2:25:48 PM] Derek: You can always skip a cell
+‎[13/05/2021, 2:30:54 PM] ‪+233 24 962 7687‬: ‎image omitted
+[13/05/2021, 2:31:55 PM] ‪+233 50 858 7628‬: Try to import pandas to your notebook
+[13/05/2021, 2:32:17 PM] ‪+233 50 858 7628‬: and assign it as pd
+[13/05/2021, 2:32:31 PM] ‪+233 50 858 7628‬: Import pandas as pd
+[13/05/2021, 2:32:36 PM] ‪+233 50 858 7628‬: It will work
+[13/05/2021, 2:36:39 PM] Derek: You don’t have pandas
+[13/05/2021, 2:36:57 PM] Derek: Aa the error says pd is not defined
+[13/05/2021, 2:37:14 PM] Derek: It’s obvious that pandas isn’t present
+[13/05/2021, 2:40:16 PM] ‪+233 27 768 5261‬: @233243319300 , 
+
+I'm unable to install/ update pandas-profiling from the anaconda environment. I have tried using the command line to do so but still.
+
+Any help please?
+[13/05/2021, 3:44:50 PM] ‪+233 55 723 3116‬: Sir please line 14 we don't have the file to that
+[13/05/2021, 4:31:03 PM] Derek: Enter the whole URL
+[13/05/2021, 4:31:15 PM] Derek: Make sure you’re connected to the internet
+[13/05/2021, 4:31:22 PM] Derek: It’s not offline data
+[13/05/2021, 4:59:18 PM] Rachael@class: ‎‎Your security code with Rachael@class changed. ‎Tap to learn more.
+‎[13/05/2021, 5:00:22 PM] ‪+233 50 708 6317‬: ‎image omitted
+[13/05/2021, 5:01:08 PM] ‪+233 50 708 6317‬: Boss please i got this error at line cell 23
+[13/05/2021, 6:04:29 PM] ‪+233 55 723 3116‬: Well noted sir
+[13/05/2021, 6:08:57 PM] Derek: It says that name isn’t in the column
+[13/05/2021, 6:09:24 PM] Derek: Did you read the data with head() after loading it ?
+[13/05/2021, 6:10:21 PM] Derek: The right variable is Births**
+[13/05/2021, 6:10:26 PM] Derek: You’ve Birth
+[13/05/2021, 6:31:07 PM] ‪+233 50 708 6317‬: Thanks boss
+‎[13/05/2021, 7:28:10 PM] ‪+233 50 708 6317‬: ‎image omitted
+[13/05/2021, 7:28:44 PM] ‪+233 50 708 6317‬: I got an error in the last cell
+[13/05/2021, 7:53:58 PM] Derek: Cell 30?
+[13/05/2021, 7:54:05 PM] Derek: On the pdf ?
+[13/05/2021, 8:00:13 PM] ‪+233 50 708 6317‬: Cell 37
+[13/05/2021, 8:01:11 PM] ‪+233 50 708 6317‬: Sorry boss I forgot
+It's up to cell 30
+‎[13/05/2021, 8:02:30 PM] ‪+233 26 638 5209‬: ‎sticker omitted
+[13/05/2021, 8:06:51 PM] ‪+233 50 708 6317‬: 😂😂😂
+[13/05/2021, 8:25:28 PM] Derek: Nice
+[14/05/2021, 4:35:17 PM] Derek: Oh I’ve not the materials on what we did yesterday and today
+[14/05/2021, 4:35:22 PM] Derek: Let’s roll
+‎[14/05/2021, 4:37:24 PM] Derek: Pandas tutorial 5_ Scatter plot with pandas and matplotlib.pdf • ‎17 pages ‎document omitted
+‎[14/05/2021, 4:37:45 PM] Derek: Pandas Tutorial 3_ Important Data Formatting Methods (merge, sort, reset_index, fillna).pdf • ‎30 pages ‎document omitted
+‎[14/05/2021, 4:38:01 PM] Derek: Pandas Tutorial 2_ Aggregation and Grouping.pdf • ‎16 pages ‎document omitted
+‎[14/05/2021, 4:38:28 PM] Derek: How to Plot a Histogram in Python (Using Pandas).pdf • ‎28 pages ‎document omitted
+‎[14/05/2021, 4:38:54 PM] Derek: Python Import Statement and the Most Important Built-in Modules for Data Scientists.pdf • ‎18 pages ‎document omitted
+‎[14/05/2021, 4:39:09 PM] Derek: Python Syntax Essentials and Best Practices.pdf • ‎11 pages ‎document omitted
+‎[14/05/2021, 4:39:27 PM] Derek: Python libraries and packages for Data Scientists (the 5 most important ones).pdf • ‎14 pages ‎document omitted
+‎[14/05/2021, 4:40:09 PM] Derek: Pandas Tutorial 1_ Pandas Basics (Reading Data Files, DataFrames, Data Selection).pdf • ‎27 pages ‎document omitted
+[14/05/2021, 4:46:21 PM] Derek: This is the ones we did this week
+[14/05/2021, 4:46:35 PM] Derek: Do well to practice further on it
+[14/05/2021, 4:46:52 PM] Derek: Then lemme add the additional materials for your own practices
+‎[14/05/2021, 4:47:03 PM] Derek: Merging_Dataframes_1620883868.pdf • ‎6 pages ‎document omitted
+[14/05/2021, 4:47:20 PM] Derek: We did merging today
+‎[14/05/2021, 4:47:32 PM] Derek: Pandas_Tutorial_1620884007.pdf • ‎116 pages ‎document omitted
+[14/05/2021, 4:47:44 PM] Derek: A further tutorial on pandas
+‎[14/05/2021, 4:47:58 PM] Derek: Matplotlib_1620883960.pdf • ‎79 pages ‎document omitted
+[14/05/2021, 4:48:11 PM] Derek: This is on matplotlib
+‎[14/05/2021, 4:48:40 PM] Derek: Numpy_Tutorial_1620883841.pdf • ‎53 pages ‎document omitted
+[14/05/2021, 4:48:52 PM] Derek: And this is on numpy
+[14/05/2021, 4:49:40 PM] Derek: I’ve two materials on plotly and seaborn 
+
+Both are data visualization packages
+
+You need to install plotly from the anaconda environment
+‎[14/05/2021, 4:49:50 PM] Derek: Plotly_1620883935.pdf • ‎166 pages ‎document omitted
+[14/05/2021, 4:50:02 PM] Derek: Plotly here
+[14/05/2021, 4:50:02 PM] ‪+233 24 365 2254‬: Noting all accordingly
+‎[14/05/2021, 4:50:13 PM] Derek: Seaborn_Tutorials_1620883774.pdf • ‎242 pages ‎document omitted
+[14/05/2021, 4:50:19 PM] ‪+233 24 365 2254‬: Vim
+[14/05/2021, 4:50:31 PM] Derek: And tbis is seaborn
+[14/05/2021, 4:50:43 PM] ‪+233 24 365 2254‬: Not taught yet
+[14/05/2021, 4:51:11 PM] Derek: Oh yes
+[14/05/2021, 4:51:26 PM] Derek: This is all for today
+
+
+Enjoy your weekend
+[14/05/2021, 4:52:12 PM] Derek: Ermm go to kaggle and download a dataset on Pokémon so you can practice with the materials
+[14/05/2021, 5:02:40 PM] ‪+233 24 365 2254‬: Alright Dr
+[15/05/2021, 9:26:13 AM] ‪+233 54 640 1971‬: Yes sir
+‎[17/05/2021, 9:23:15 AM] Khalid: winemag-data_first150k.csv ‎document omitted
+[17/05/2021, 10:39:32 AM] Derek: https://raw.githubusercontent.com/TirendazAcademy/PANDAS-TUTORIAL/main/Data/ca_san_diego_2019_02_25.csv
+‎[17/05/2021, 12:37:39 PM] Khalid: Wine Review Analysis.pdf • ‎40 pages ‎document omitted
+‎[17/05/2021, 4:18:04 PM] Khalid: Data Analysis in Pandas .ipynb ‎document omitted
+‎[18/05/2021, 3:22:33 PM] Khalid: Four Types of Data Analysis that Improve Decision-Making.pdf • ‎19 pages ‎document omitted
+‎[18/05/2021, 3:22:34 PM] Khalid: Data Collection For Data Science - How.pdf • ‎8 pages ‎document omitted
+[18/05/2021, 3:36:49 PM] ‪+233 24 365 2254‬: Try to Install :
+
+1. Requests 
+2. Selenium
+3. Scrapy
+4. Beautiful soup
+
+Derek Said
+[18/05/2021, 3:37:43 PM] ‪+233 26 270 7834‬: In anaconda environment?
+[18/05/2021, 4:27:12 PM] Derek: BeautifulSoup**
+[18/05/2021, 4:29:42 PM] ‪+233 24 365 2254‬: Yep
+[18/05/2021, 6:03:15 PM] ‪+233 26 638 5209‬: how  about BeautifulSoup4, thats what im seeing
+[18/05/2021, 6:04:12 PM] Derek: Yh that’s the one
+[18/05/2021, 6:04:37 PM] Seyram: Ademola 
+Esther 
+You guys should dm 
+Plssss🙏
+‎[19/05/2021, 4:03:07 PM] Khalid: Tutorial_ Web Scraping with Python Using Beautiful Soup.pdf • ‎31 pages ‎document omitted
+‎[19/05/2021, 4:03:08 PM] Khalid: Your Modern Business Guide To Data Analysis Methods And Techniques.pdf • ‎22 pages ‎document omitted
+[19/05/2021, 9:31:04 PM] ‪+233 27 861 3192‬: Hi guys, please who knows the email address to which we can send abseentism requests/permission?
+[19/05/2021, 9:31:54 PM] ‪+233 54 626 2919‬: nonbase@ghanatechlab.com
+[19/05/2021, 9:32:25 PM] ‪+233 27 861 3192‬: Thanks prophet
+[19/05/2021, 9:32:34 PM] ‪+233 54 626 2919‬: 🙏🏾
+[20/05/2021, 9:01:47 AM] Derek: https://www.octoparse.com/download/windows
+[20/05/2021, 9:02:17 AM] Derek: Download this application for web scraping
+[20/05/2021, 9:02:33 AM] Derek: Search for your OS and download 
+Install it
+[20/05/2021, 9:04:07 AM] Derek: Also 
+
+Pip install geopy
+[20/05/2021, 9:04:21 AM] Derek: Or just install via the anaconda environment
+[20/05/2021, 9:30:23 AM] Derek: https://www.coursera.org/collections/popular-free-courses.
+[20/05/2021, 9:30:48 AM] ‪+233 27 768 5261‬: Thanks Derek
+[20/05/2021, 9:38:38 AM] ‪+233 26 270 7834‬: Thanks boss💪🏾
+‎[20/05/2021, 11:04:03 AM] Derek: WAEC-supervisors-invigilators-application-form.pdf • ‎2 pages ‎document omitted
+‎[20/05/2021, 11:18:54 AM] ‪+233 20 004 7776‬: Coursera.ipynb ‎document omitted
+[20/05/2021, 12:39:29 PM] ‪+233 54 431 5670‬: https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions
+‎[20/05/2021, 2:09:47 PM] Khalid: Coursera Web Scrapping .ipynb ‎document omitted
+[20/05/2021, 2:53:24 PM] Khalid: https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions
+‎[20/05/2021, 4:01:45 PM] Khalid: Greenhouse_gas_codes.docx ‎document omitted
+‎[20/05/2021, 4:09:15 PM] Khalid: Greenhouse gas emissions.xlsx ‎document omitted
+‎[21/05/2021, 5:05:43 AM] ‪+233 54 640 1971‬: ‎image omitted
+[21/05/2021, 6:04:12 AM] Derek: Because it’s an excel file
+[21/05/2021, 6:04:40 AM] Derek: Just copy the path and run
+
+
+You’ll still get your results
+‎[21/05/2021, 3:43:01 PM] Khalid: Data Visualization and Exploratory Data Analysis (EDA) in Data Science.pdf • ‎18 pages ‎document omitted
+‎[21/05/2021, 3:43:02 PM] Khalid: Which Python Library Is the Best One for Data Visualization (1).pdf • ‎23 pages ‎document omitted
+‎[21/05/2021, 3:46:06 PM] Khalid: Data vizs.pdf • ‎12 pages ‎document omitted
+‎[21/05/2021, 3:46:09 PM] Khalid: Data viz.pdf • ‎10 pages ‎document omitted
+[21/05/2021, 4:13:53 PM] Derek: https://raw.githubusercontent.com/Vihaanshah29/Haberman_dataset_EDA/main/haberman.csv
+[21/05/2021, 4:14:07 PM] Derek: This is the dataset for this work
+[21/05/2021, 4:14:17 PM] Derek: Goodluck
+‎[21/05/2021, 4:17:10 PM] Derek: A Reference Notebook for (+30) Statistical Charts in Seaborn.pdf • ‎66 pages ‎document omitted
+[22/05/2021, 12:30:02 AM] ‪+233 26 814 0240‬: Hi
+[22/05/2021, 12:37:27 PM] ‪+233 50 858 7628‬: Derek please any updates on our shift system to class
+[22/05/2021, 12:55:08 PM] Derek: Hi class
+
+We are continuing with the shift 
+
+Thank you
+[22/05/2021, 12:55:15 PM] Derek: Till further notice
+[22/05/2021, 12:55:47 PM] Seyram: Thank you💃
+[22/05/2021, 12:55:53 PM] ‪+233 50 858 7628‬: Thanks
+[22/05/2021, 1:00:13 PM] Derek: Sure
+[22/05/2021, 4:15:27 PM] ‪+233 26 814 0240‬: @Derek I was trying hands on the dataset we worked on yesterday but stucked with this errors👇
+‎[22/05/2021, 4:15:48 PM] ‪+233 26 814 0240‬: ‎image omitted
+[22/05/2021, 4:16:28 PM] ‪+233 54 100 6410‬: Check your spelling of 'gausshyper'
+[22/05/2021, 4:17:05 PM] ‪+233 26 814 0240‬: Ok🙏
+[22/05/2021, 4:19:08 PM] ‪+233 26 814 0240‬: Sharp
+[22/05/2021, 4:19:23 PM] ‪+233 54 100 6410‬: 🤝🏻
+‎[22/05/2021, 4:19:23 PM] ‪+233 26 814 0240‬: ‎image omitted
+[22/05/2021, 4:19:24 PM] ‪+233 26 814 0240‬: Tanks once more
+‎[22/05/2021, 4:38:02 PM] ‪+233 26 814 0240‬: ‎image omitted
+[22/05/2021, 4:38:53 PM] ‪+233 26 814 0240‬: And plz wat might have the problem here
+[22/05/2021, 4:39:49 PM] ‪+233 26 814 0240‬: *been
+[22/05/2021, 4:39:56 PM] ‪+233 26 638 5209‬: its  not suppose to be on one line
+[22/05/2021, 4:40:31 PM] ‪+233 54 100 6410‬: 'x =', 'y =', you missed that
+‎[22/05/2021, 4:40:47 PM] ‪+233 26 814 0240‬: ‎image omitted
+[22/05/2021, 4:41:31 PM] ‪+233 26 814 0240‬: That goes with d subsequent line
+[22/05/2021, 4:42:07 PM] ‪+233 54 100 6410‬: either ways.
+[22/05/2021, 4:43:16 PM] ‪+233 26 814 0240‬: 🙏
+[22/05/2021, 4:43:46 PM] ‪+233 27 065 5742‬: Champion programmers. That’s great. Keep it up🙏🏼
+[22/05/2021, 4:45:36 PM] ‪+233 54 100 6410‬: You need to set your x and y parameters to sepal_length and petal_length, as well as the source of the data.
+The syntax should read thus:
+
+sns.jointplot(x = 'sepal_length', y = 'petal_length', data = iris)
+[22/05/2021, 4:47:08 PM] ‪+233 26 814 0240‬: Ada!
+[22/05/2021, 4:47:15 PM] Derek: Programmers don’t want to take time to sort out errors
+[22/05/2021, 4:47:22 PM] Derek: They want easy ways
+‎[22/05/2021, 4:47:37 PM] Derek: ‎sticker omitted
+[22/05/2021, 4:47:46 PM] ‪+233 26 814 0240‬: Afa!
+[22/05/2021, 4:48:19 PM] ‪+233 54 100 6410‬: 🤣🤣🤣🤣
+[22/05/2021, 4:48:26 PM] ‪+233 26 814 0240‬: 3y3 b3 fe3m
+[22/05/2021, 4:48:42 PM] ‪+233 54 626 2919‬: I am here for this vawulence
+[22/05/2021, 4:49:29 PM] ‪+233 26 638 5209‬: 😂😂😂
+‎[22/05/2021, 4:49:43 PM] Derek: ‎sticker omitted
+‎[22/05/2021, 4:51:33 PM] ‪+233 54 626 2919‬: ‎sticker omitted
+‎[23/05/2021, 2:22:35 AM] ‪+233 26 814 0240‬: ‎image omitted
+[23/05/2021, 2:24:38 AM] ‪+233 26 814 0240‬: got thix
+[23/05/2021, 7:07:52 AM] Derek: Move
+‎[23/05/2021, 7:08:33 AM] Derek: ‎image omitted
+[23/05/2021, 7:09:03 AM] Derek: Kindly add it… it’s part of one of your assignment
+[23/05/2021, 10:48:32 AM] ‪+233 26 814 0240‬: K
+[23/05/2021, 1:02:55 PM] ‪+233 54 047 7782‬: Goodafternoon
+[23/05/2021, 1:03:03 PM] ‪+233 54 047 7782‬: Sammy pls dm me
+[23/05/2021, 1:08:36 PM] ‪+233 50 858 7628‬: Ok
+‎[24/05/2021, 4:30:43 PM] Derek: Git and GitHub in a Nutshell_ Definitive tutorial for beginners.pdf • ‎18 pages ‎document omitted
+‎[24/05/2021, 4:30:58 PM] Derek: 100+ Data Science and AI Use Cases & Applications_ In-Depth Guide.pdf • ‎18 pages ‎document omitted
+[24/05/2021, 5:18:12 PM] Afriyie@: Hi @233243319300, 
+You said you would share your zoom link for your session  with us.
+[24/05/2021, 5:18:46 PM] Derek: Hi there, 
+
+You are invited to a Zoom webinar. 
+When: May 27, 2021 06:00 PM Reykjavik 
+Topic: Webinar: New APIs platform (Chenosis) and Effective Data Collection for AI in Africa
+
+Register in advance for this webinar:
+https://us02web.zoom.us/webinar/register/WN_a6SpXyllT6mNNcXjqC6Nrw
+
+
+After registering, you will receive a confirmation email containing information about joining the webinar.
+[24/05/2021, 5:18:50 PM] Derek: Thank you
+[24/05/2021, 7:51:04 PM] Derek: https://dev.mysql.com/downloads/mysql/
+[24/05/2021, 7:51:04 PM] Derek: https://dev.mysql.com/downloads/workbench/
+‎[24/05/2021, 7:51:14 PM] Derek: ‎sticker omitted
+[24/05/2021, 7:51:34 PM] Derek: Please for the SQL kindly download and install these instead
+[24/05/2021, 7:53:00 PM] ‪+233 26 814 0240‬: Noted sir!
+[24/05/2021, 8:39:54 PM] ‪+233 57 558 5938‬: 🤝🏽🤝🏽🤝🏽🤝🏽
+[25/05/2021, 6:42:05 AM] ‪+233 24 506 6806‬: ‎This message was deleted.
+[25/05/2021, 9:10:30 AM] ‪+233 54 047 7782‬: Gm
+‎[25/05/2021, 12:15:31 PM] Khalid: MySQL IS NULL & IS NOT NULL Tutorial with EXAMPLES.pdf ‎document omitted
+‎[25/05/2021, 12:15:31 PM] Khalid: MySQL JOINS Tutorial_ INNER, OUTER, LEFT, RIGHT, CROSS.pdf ‎document omitted
+‎[25/05/2021, 12:15:56 PM] Khalid: MySQL LIMIT & OFFSET with Examples.pdf ‎document omitted
+‎[25/05/2021, 12:15:57 PM] Khalid: MYSQL Regular Expressions (REGEXP) with Syntax & Examples.pdf ‎document omitted
+‎[25/05/2021, 12:16:11 PM] Khalid: MySQL SELECT Statement with Examples.pdf ‎document omitted
+‎[25/05/2021, 12:16:12 PM] Khalid: MySQL SubQuery Tutorial with Examples.pdf ‎document omitted
+‎[25/05/2021, 12:16:13 PM] Khalid: MySQL UNION - Complete Tutorial.pdf ‎document omitted
+‎[25/05/2021, 12:16:13 PM] Khalid: MySQL UPDATE Query with Example.pdf ‎document omitted
+‎[25/05/2021, 12:16:14 PM] Khalid: MySQL Views_ How to Create View from Tables with Examples.pdf ‎document omitted
+‎[25/05/2021, 12:16:15 PM] Khalid: MySQL WHERE Clause_ AND, OR, IN, NOT IN Query Example.pdf ‎document omitted
+‎[25/05/2021, 12:16:16 PM] Khalid: MySQL Wildcards Tutorial_ Like, NOT Like, Escape, ( % ), ( _ ).pdf ‎document omitted
+‎[25/05/2021, 12:16:16 PM] Khalid: MySQL Workbench Tutorial for Beginners_ How to Install & Use.pdf ‎document omitted
+‎[25/05/2021, 12:16:17 PM] Khalid: ORDER BY in MySQL_ DESC & ASC Query with EXAMPLE.pdf ‎document omitted
+‎[25/05/2021, 12:16:18 PM] Khalid: SQL Cheat Sheet [2021 Update].pdf ‎document omitted
+‎[25/05/2021, 12:16:18 PM] Khalid: SQL GROUP BY and HAVING Clause with Examples.pdf ‎document omitted
+‎[25/05/2021, 12:16:19 PM] Khalid: SQL Tutorial for Beginners_ Learn SQL in 7 Days.pdf ‎document omitted
+‎[25/05/2021, 12:16:19 PM] Khalid: SQL vs MySQL_ What's the Difference Between SQL and MySQL.pdf ‎document omitted
+‎[25/05/2021, 12:16:20 PM] Khalid: sql_preview.pdf ‎document omitted
+‎[25/05/2021, 12:16:21 PM] Khalid: Top 50 SQL Interview Questions and Answers (2021 Update).pdf ‎document omitted
+‎[25/05/2021, 12:16:23 PM] Khalid: What is a Database.pdf ‎document omitted
+‎[25/05/2021, 12:16:24 PM] Khalid: What is ER Modeling.pdf ‎document omitted
+‎[25/05/2021, 12:16:25 PM] Khalid: What is Normalization.pdf ‎document omitted
+‎[25/05/2021, 12:16:27 PM] Khalid: Your First Application using MySQL and PHP.pdf ‎document omitted
+‎[25/05/2021, 12:16:28 PM] Khalid: MYSQL - ALTER, DROP, RENAME, MODIFY.pdf ‎document omitted
+‎[25/05/2021, 12:16:31 PM] Khalid: MySQL Aggregate Functions Tutorial _ SUM, AVG, MAX, MIN , COUNT, DISTINCT.pdf ‎document omitted
+‎[25/05/2021, 12:16:32 PM] Khalid: MySQL AUTO_INCREMENT with Examples.pdf ‎document omitted
+‎[25/05/2021, 12:16:36 PM] Khalid: MySQL Create Table _ How to Create Database in MySQL.pdf ‎document omitted
+‎[25/05/2021, 12:16:37 PM] Khalid: MySQL DELETE Query_ How to Delete Row from a Table.pdf ‎document omitted
+‎[25/05/2021, 12:16:47 PM] Khalid: MySQL Functions_ String, Numeric, User-Defined, Stored.pdf ‎document omitted
+‎[25/05/2021, 12:16:49 PM] Khalid: MySQL Index Tutorial - Create, Add & Drop.pdf ‎document omitted
+‎[25/05/2021, 12:16:51 PM] Khalid: 10 Best SQL Query Builders & Editor in 2021.pdf ‎document omitted
+‎[25/05/2021, 12:16:51 PM] Khalid: 11 Best Free SQL Courses & Certification (2021 Update).pdf ‎document omitted
+‎[25/05/2021, 12:16:53 PM] Khalid: 14 BEST SQL Books in 2021.pdf ‎document omitted
+‎[25/05/2021, 12:16:54 PM] Khalid: 25 Best SQL Tools _ Database Software & IDE (2021 Update).pdf ‎document omitted
+‎[25/05/2021, 12:16:55 PM] Khalid: Database Design Tutorial_ Learn Data Modeling.pdf ‎document omitted
+[25/05/2021, 12:27:53 PM] ‪+233 54 047 7782‬: .
+[25/05/2021, 12:44:53 PM] Derek: So that’s all the materials we using for the SQL
+[25/05/2021, 12:45:33 PM] Derek: And there’s a first assignment on designing an ER Model for any company that manually work with data
+[25/05/2021, 12:45:34 PM] ‪+233 27 065 5742‬: K thanks boss
+[25/05/2021, 12:45:39 PM] Derek: It’s a group work
+[25/05/2021, 12:46:10 PM] Derek: So use your existing group for the work
+
+
+Submission is Friday 8:49pm
+[25/05/2021, 12:46:35 PM] Derek: Submit via ernest@ghanatechlab.com
+[25/05/2021, 3:04:16 PM] ‪+233 54 640 1971‬: import okay as ok
+*Run*
+[25/05/2021, 5:36:05 PM] Rachael@class: For🙄
+‎[25/05/2021, 7:14:23 PM] ‪+233 24 962 7687‬: ‎image omitted
+[25/05/2021, 7:37:01 PM] ‪+233 26 638 5209‬: the company no get name??
+[25/05/2021, 7:51:04 PM] ‪+233 54 626 2919‬: Blu Penguin
+[25/05/2021, 7:51:27 PM] ‪+233 54 626 2919‬: https://theblupenguin.com/
+[25/05/2021, 7:52:11 PM] ‪+233 54 626 2919‬: See the email address at the bottom.
+
+Speculation though. Could be hiring for a diff company
+[27/05/2021, 6:02:59 PM] Khalid: Let join the webinar pls
+[27/05/2021, 7:03:07 PM] ‪+233 27 861 3192‬: I believe we are meeting tomorrow. Or?
+[27/05/2021, 7:03:57 PM] ‪+233 54 626 2919‬: ‎This message was deleted.
+[27/05/2021, 7:04:07 PM] ‪+233 54 626 2919‬: ‎This message was deleted.
+‎[27/05/2021, 7:04:28 PM] Derek: ‎sticker omitted
+[27/05/2021, 7:04:37 PM] Derek: We are live now
+[27/05/2021, 7:08:07 PM] ‪+233 54 626 2919‬: Oh wrong group please
+[27/05/2021, 8:28:02 PM] ‪+233 54 626 2919‬: 👏👏
+
+Great presentation. I had a fun time recognising some of the terms and myths you have talked about it in class. Would it be possible to have the slides?
+
+Thanks!
+[27/05/2021, 8:29:57 PM] ‪+233 24 506 6806‬: I second
+[27/05/2021, 8:44:48 PM] Derek: No problem
+[27/05/2021, 9:35:33 PM] ‪+233 50 858 7628‬: ???
+‎[28/05/2021, 10:49:07 AM] Khalid: DB Requirements.docx ‎document omitted
+‎[28/05/2021, 10:49:08 AM] Khalid: Tables.xlsx ‎document omitted
+‎[28/05/2021, 10:49:09 AM] Khalid: THE SQL TABLE.docx ‎document omitted
+‎[28/05/2021, 11:36:49 AM] Khalid: MySQL + Python for Data Analysts.pdf • ‎21 pages ‎document omitted
+‎[28/05/2021, 1:08:22 PM] Derek: ‎sticker omitted
+‎[28/05/2021, 1:19:38 PM] Derek: Python and MySQL Database Programming Exercise.docx ‎document omitted
+‎[28/05/2021, 1:19:58 PM] Derek: Python and MySQL Database Programming Exercise.pdf • ‎13 pages ‎document omitted
+‎[28/05/2021, 1:19:58 PM] Derek: Python and MySQL Database Programming Exercise.pdf • ‎13 pages ‎document omitted
+[28/05/2021, 1:21:28 PM] Derek: So this is the assignment 
+
+An individual assignment 
+Submission is on Monday morning
+‎[28/05/2021, 2:18:12 PM] Khalid: ‎image omitted
+‎[28/05/2021, 2:18:12 PM] Khalid: ‎image omitted
+[28/05/2021, 8:19:36 PM] ‪+233 54 047 7782‬: Hello pls afternoon group 3 members pls send me yur names
+[28/05/2021, 8:20:13 PM] Rachael@class: Are u abroad please😃😃
+[28/05/2021, 8:20:40 PM] ‪+233 54 047 7782‬: No pls
+[28/05/2021, 8:21:11 PM] ‪+233 54 047 7782‬: I want to add it to our work pls
+[28/05/2021, 8:21:33 PM] Rachael@class: And is afternoon at your end
+[28/05/2021, 8:23:29 PM] ‪+233 27 768 5261‬: 🤣🤣🤣
+[28/05/2021, 8:24:21 PM] ‪+233 27 768 5261‬: Maybe the message was typed around 1pm this afternoon, but because of ECG nti, it is now coming. DumSor....🤷🏾‍♂️🤷🏾‍♂️🤷🏾‍♂️
+[28/05/2021, 8:24:44 PM] Derek: She meant those in afternoon and are in group 3
+[28/05/2021, 8:25:02 PM] ‪+233 54 047 7782‬: Yh
+[28/05/2021, 8:25:11 PM] ‪+233 57 558 5938‬: 😂😂
+‎[28/05/2021, 8:25:40 PM] ‪+233 24 365 2254‬: ‎sticker omitted
+[28/05/2021, 8:26:03 PM] ‪+233 54 100 6410‬: Exactly
+[28/05/2021, 8:26:06 PM] ‪+233 27 768 5261‬: Ooooookkkaayyyyyy!!!!!!!
+
+🤣🤣🤣
+[29/05/2021, 3:13:05 PM] ‪+233 26 633 2394‬: Hello everyone
+[29/05/2021, 3:13:16 PM] ‪+233 26 633 2394‬: Good news 💃🏾💃🏾💃🏾
+[29/05/2021, 3:13:53 PM] ‪+233 54 047 7782‬: 👀
+[29/05/2021, 3:15:54 PM] ‪+233 54 100 6410‬: 👂🏻
+[29/05/2021, 3:16:06 PM] ‪+233 26 633 2394‬: Starting Monday 31st May 2021 our normal class schedules resumes fully.
+
+Which means we will come to class from 9:00am to 3:00pm.
+
+*PLEASE NOTE*
+1. NO LATENESS 
+2. NO MISSING CLASS
+
+Tell a friend to tell a friend to tell another friend 😁😁😁
+See you all on Monday...
+[29/05/2021, 3:17:17 PM] ‪+233 54 100 6410‬: 🕺🏻🕺🏻🕺🏻🕺🏻
+[29/05/2021, 3:17:59 PM] ‪+233 54 047 7782‬: I weak
+[29/05/2021, 3:19:30 PM] ‪+233 24 506 6806‬: 🤐🤐🤐🤐
+[29/05/2021, 3:19:39 PM] ‪+233 26 633 2394‬: Receive strength in Jesus name😃😅🤣
+[29/05/2021, 3:19:49 PM] ‪+233 26 633 2394‬: Emmanuel speak wae
+[29/05/2021, 3:19:59 PM] ‪+233 26 633 2394‬: I miss seeing you all together so come wae
+[29/05/2021, 3:20:12 PM] ‪+233 26 633 2394‬: I will give you choco milo😁
+‎[29/05/2021, 3:20:39 PM] ‪+233 54 047 7782‬: ‎sticker omitted
+[29/05/2021, 3:21:26 PM] ‪+233 24 365 2254‬: The morning guys just make happy sekof them go see the afternoon dudes. Ei!
+[29/05/2021, 3:23:51 PM] ‪+233 24 506 6806‬: aaaaa beg oooo.... 
+Is this really the good newz🤷🏽‍♂️
+[29/05/2021, 3:24:06 PM] ‪+233 26 633 2394‬: Nanka....
+[29/05/2021, 3:25:03 PM] ‪+233 24 506 6806‬: I 🙈
+[29/05/2021, 3:26:06 PM] ‪+233 24 506 6806‬: I hear wai...
+I will buy you chupa-chops when I come across one😁🤗🤗
+[29/05/2021, 3:27:34 PM] ‪+233 26 633 2394‬: See you all on Monday 😁😁😁
+[29/05/2021, 3:27:47 PM] ‪+233 26 638 5209‬: this aint a Good news
+[29/05/2021, 3:29:46 PM] ‪+233 26 633 2394‬: See Henry too😏
+[29/05/2021, 3:30:40 PM] ‪+233 24 506 6806‬: Na true laaa
+ɛɛɛrr
+[29/05/2021, 3:30:47 PM] ‪+233 24 506 6806‬: 😉😉
+‎[29/05/2021, 3:31:13 PM] ‪+233 26 633 2394‬: ‎sticker omitted
+‎[29/05/2021, 3:32:27 PM] ‪+233 24 506 6806‬: ‎GIF omitted
+[29/05/2021, 3:34:05 PM] ‪+233 26 633 2394‬: Since we started running shifts some people just come to close the class...
+
+I know all of you...
+
+No lateness again ooooo...
+[30/05/2021, 4:18:02 PM] ‪+233 20 004 7776‬: ‎‎Your security code with ‪+233 20 004 7776‬ changed. ‎Tap to learn more.
+‎[31/05/2021, 9:43:48 AM] Derek: ANZ synthesised transaction dataset.xlsx ‎document omitted
+‎[31/05/2021, 9:46:24 AM] Khalid: Getting Started with MySQL in Python (1).pdf • ‎27 pages ‎document omitted
+‎[31/05/2021, 10:43:21 AM] Derek: Generating Insights from synthesised data.ipynb ‎document omitted
+‎[31/05/2021, 2:14:13 PM] Khalid: Applying Design and Agile Thinking to your Data Science project .pdf • ‎45 pages ‎document omitted
+‎[31/05/2021, 5:36:47 PM] Derek: 05_sklearn_slides.pdf • ‎70 pages ‎document omitted
+[31/05/2021, 5:37:03 PM] Derek: ahead of data preprocessing class from tomorrow
+‎[01/06/2021, 12:49:08 PM] Derek: sample_data.csv ‎document omitted
+‎[01/06/2021, 3:31:54 PM] Khalid: Data Preprocessing for Machine Learning.pdf • ‎21 pages ‎document omitted
+[01/06/2021, 5:07:57 PM] ‪+233 54 640 1971‬: Please what of the notebook file
+[02/06/2021, 11:31:57 AM] Khalid: https://docs.google.com/forms/d/e/1FAIpQLSeu6pROCxeD0VeypDD2RFJr-MbRQpCsGO2iDGGB8eRWngz08Q/viewform
+[02/06/2021, 6:31:30 PM] Rachael@class: ‎This message was deleted.
+[02/06/2021, 6:32:13 PM] Rachael@class: Henry please dm
+‎[02/06/2021, 6:47:23 PM] Derek: ‎sticker omitted
+‎[03/06/2021, 8:52:24 AM] Derek: train.csv ‎document omitted
+‎[03/06/2021, 8:52:24 AM] Derek: test.csv ‎document omitted
+‎[03/06/2021, 11:04:12 AM] Khalid: Data Preprocessing with Titanic Dataset.ipynb ‎document omitted
+‎[03/06/2021, 1:17:28 PM] Derek: Fitbit.zip ‎document omitted
+‎[03/06/2021, 1:18:04 PM] Derek: archive (4).zip ‎document omitted
+‎[04/06/2021, 1:43:51 PM] Khalid: Stack_Exchange_Topic_Modeling_Presentation.pdf • ‎25 pages ‎document omitted
+‎[04/06/2021, 1:43:52 PM] Khalid: Atlanta_Neighborhoods_Report.pdf • ‎22 pages ‎document omitted
+‎[04/06/2021, 1:53:14 PM] Khalid: Finance and covid dashboards.ipynb ‎document omitted
+[04/06/2021, 1:53:48 PM] Derek: derek@ghanatechlab.com
+‎[04/06/2021, 2:08:11 PM] Khalid: avocado-updated-2020.csv ‎document omitted
+‎[04/06/2021, 2:08:12 PM] Khalid: What is a data dashboard.pdf • ‎22 pages ‎document omitted
+‎[04/06/2021, 2:08:13 PM] Khalid: Finance and covid dashboards.ipynb ‎document omitted
+‎[04/06/2021, 2:08:15 PM] Khalid: Dash for Beginners.pdf • ‎21 pages ‎document omitted
+‎[04/06/2021, 2:08:16 PM] Khalid: Capstone2_Final_Report.pdf • ‎33 pages ‎document omitted
+‎[04/06/2021, 2:08:17 PM] Khalid: Atlanta_Neighborhoods_Report.pdf • ‎22 pages ‎document omitted
+‎[04/06/2021, 2:08:18 PM] Khalid: Basic_movies_dashboard.ipynb ‎document omitted
+‎[04/06/2021, 2:08:18 PM] Khalid: Stack_Exchange_Topic_Modeling_Presentation.pdf • ‎25 pages ‎document omitted
+‎[04/06/2021, 2:08:19 PM] Khalid: Basic_dash_dashboard.ipynb ‎document omitted
+‎[04/06/2021, 2:08:19 PM] Khalid: Covid-19 dashboard.ipynb ‎document omitted
+[05/06/2021, 12:20:04 AM] Derek: SQL was valuable in 1990s and it’s arguably more valuable today. If you’re working with data it is a must know. 
+
+10 places to start your journey:
+
+1. Zachary Thomas' SQL Questions https://lnkd.in/g-JJzuD
+2. Select * SQL: https://selectstarsql.com/
+3. Leetcode: https://lnkd.in/g3c5JGC
+4. LinkedIn Learning: https://lnkd.in/gQXFc4n
+5. Window Functions: https://lnkd.in/g3RtPCJ
+6. HackerRank: https://lnkd.in/grv_9sB
+7. W3 Schools: https://lnkd.in/gJPfrrv
+8. CodeAcademy: https://lnkd.in/gT5xmpN
+9. SQLZoo: https://sqlzoo.net/
+10. SQL Bolt: https://sqlbolt.com/
+[05/06/2021, 12:20:50 AM] ‪+233 27 768 5261‬: Thank you
+[05/06/2021, 7:07:31 AM] ‪+233 57 558 5938‬: 🙌🏾🙌🏾🙌🏾🙌🏾🤝🏽🤝🏽🤝🏽
+[05/06/2021, 8:32:44 AM] ‪+233 24 506 6806‬: Akpe
+[05/06/2021, 9:48:33 AM] ‪+233 54 047 7782‬: 🤝
+[06/06/2021, 4:39:19 PM] Derek: I received mails from Group one, three, four and five
+[06/06/2021, 4:39:25 PM] Derek: Group missing
+[06/06/2021, 4:39:41 PM] Derek: Kindly check and send
+[06/06/2021, 4:42:43 PM] Derek: Sorry 
+It’s rather group one, two, three and four 
+
+No group five yet 
+
+Thanks
+[07/06/2021, 3:51:31 PM] Derek: https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit?ts=60bd228d#slide=id.g183f28bdc3_0_82
+[07/06/2021, 4:10:04 PM] ‪+233 54 047 7782‬: 👍
+‎[08/06/2021, 9:30:07 AM] Derek: 2. Multiple Regression.pdf • ‎7 pages ‎document omitted
+‎[08/06/2021, 9:30:07 AM] Derek: 3. Logistic Regression.pdf • ‎10 pages ‎document omitted
+‎[08/06/2021, 9:30:07 AM] Derek: 4. K Nearest Neighbors.pdf • ‎5 pages ‎document omitted
+‎[08/06/2021, 9:30:07 AM] Derek: 5. Decision Trees.pdf • ‎11 pages ‎document omitted
+‎[08/06/2021, 9:30:07 AM] Derek: 6. Random Forest.pdf • ‎10 pages ‎document omitted
+‎[08/06/2021, 9:30:07 AM] Derek: Better Data Science _ Feature Importance Techniques with Python.pdf • ‎3 pages ‎document omitted
+‎[08/06/2021, 9:30:07 AM] Derek: Better Data Science _ Generate PDF Reports with Python.pdf • ‎5 pages ‎document omitted
+‎[08/06/2021, 9:30:07 AM] Derek: Better Data Science _ Hyperparameter Tuning with GridSearch.pdf • ‎4 pages ‎document omitted
+‎[08/06/2021, 9:30:07 AM] Derek: Better Data Science _ Make Synthetic Datasets with Python.pdf • ‎4 pages ‎document omitted
+‎[08/06/2021, 9:30:07 AM] Derek: End To End Implementation of Data Science Pipeline in the Linear Regression Model.pdf • ‎39 pages ‎document omitted
+‎[08/06/2021, 9:30:07 AM] Derek: Linear Regression for Absolute Beginners with Implementation in Python.pdf • ‎17 pages ‎document omitted
+‎[08/06/2021, 9:30:07 AM] Derek: Simple Linear Regression.pdf • ‎6 pages ‎document omitted
+‎[08/06/2021, 9:30:45 AM] Derek: tensorboard implementation .ipynb ‎document omitted
+‎[08/06/2021, 9:30:45 AM] Derek: Student Perfomance Analytics¶.ipynb ‎document omitted
+‎[08/06/2021, 9:30:45 AM] Derek: Bike Sharing Demand Dataset.ipynb ‎document omitted
+[08/06/2021, 9:50:33 AM] Derek: Imagine you are a manager of a coffee shop. Your coffee shop opens 24h daily. The daily schedule is divided into 8 time windows. 
+
+Staff members need to be scheduled into 4 different shifts as shown in the image below. Each time window requires a different amount of staff.
+
+How can you decide how many staff workers needed per shift? 
+
+Instead of spending hours trying to figure this out, you can utilize your Python skill to find the optimal solutions for this problem
+‎[08/06/2021, 10:57:55 AM] Derek: ‎image omitted
+[08/06/2021, 11:41:54 AM] Derek: The City of Kigali in partnership with GURARIDE Rwanda has embarked on a campaign to promote non-motorized transport as one of the resource efficient travel modes that is environmentally friendly, improves health of citizens, and is safe for users.
+‎[08/06/2021, 11:41:54 AM] Derek: ‎image omitted
+‎[08/06/2021, 11:41:54 AM] Derek: ‎image omitted
+‎[08/06/2021, 11:41:54 AM] Derek: ‎image omitted
+‎[08/06/2021, 11:41:54 AM] Derek: ‎image omitted
+‎[08/06/2021, 11:41:54 AM] Derek: ‎image omitted
+‎[08/06/2021, 1:19:40 PM] Derek: sampleSubmission.csv ‎document omitted
+‎[08/06/2021, 1:19:40 PM] Derek: test.csv ‎document omitted
+‎[08/06/2021, 1:19:40 PM] Derek: train.csv ‎document omitted
+[08/06/2021, 3:24:15 PM] Derek: Best_Model ={'Model':['LinearRegression','RandomForestRegressor','CatBoost Regressor', 'XGBoost Regressor','KNN Regressor','AdaBoost Regressor','Decision_Tree Regressor','Lgb Regressor','ExtraTree Regressor','SupportVector Regressor'],
+        'R2_Score':[LR_r2_score,RF_r2_score,CatBoost_r2_score,xgb_r2_score,KNN_r2_score,Ada_r2_score,Dtree_r2_score,lgb_r2_score,Extr_r2_score,svr_r2_score],'RMSE':[LR_RMSE,RF_RMSE,CatBoost_RMSE,xgb_RMSE,KNN_RMSE,Ada_RMSE,Dtree_RMSE,lgb_RMSE,Extr_RMSE,svr_RMSE]}
+Best_Model =pd.DataFrame(Best_Model)
+Best_Model=Best_Model.set_index('Model')
+Best_Model
+[09/06/2021, 1:21:39 PM] Derek: I’m here
+[09/06/2021, 1:33:38 PM] ‪+233 27 065 5742‬: Welcome🙏🏼
+[09/06/2021, 3:23:56 PM] ‪+233 54 047 7782‬: Good evening. Do you know anyone who might be one of the following and can also help recruit others with the skills(will mention it to you below) Trying to egt a team. 
+
+Data Analyst 
+Data manager 
+Data Scientist 
+Software builder 
+
+Skills: able to develop quality code within SQL and either R or Python. Experience working with APIs as well as knowledge of AWS (Redshift) and Google Big Query
+
+Also looking for a cyber security Specialist. 
+
+Work experience; not necessarily a criteria
+[09/06/2021, 3:23:57 PM] ‪+233 54 047 7782‬: contact 0244958967
+‎[09/06/2021, 9:11:51 PM] ‪+233 54 047 7782‬: ‎image omitted
+‎[09/06/2021, 9:13:30 PM] ‪+233 26 638 5209‬: ‎sticker omitted
+‎[10/06/2021, 7:18:12 AM] Khalid: Mathematics and Statistics behind Machine Learning.pdf • ‎86 pages ‎document omitted
+‎[10/06/2021, 7:18:12 AM] Khalid: A One-Stop Guide to Statistics for Machine Learning.pdf • ‎14 pages ‎document omitted
+[10/06/2021, 7:21:01 AM] ‪+233 24 506 6806‬: Thank You🤝🏾
+‎[10/06/2021, 9:28:31 AM] Derek: Walmart-Store-Sales-Forecasting.ipynb ‎document omitted
+‎[10/06/2021, 9:29:09 AM] Derek: ML Book.pdf • ‎109 pages ‎document omitted
+‎[10/06/2021, 9:29:09 AM] Derek: 17 Terminal Commands Every Programmer Should Know.pdf • ‎22 pages ‎document omitted
+‎[10/06/2021, 9:29:09 AM] Derek: Data science in industry.pdf • ‎15 pages ‎document omitted
+‎[10/06/2021, 9:29:09 AM] Derek: Aspiring Data scientist.pdf • ‎3 pages ‎document omitted
+‎[10/06/2021, 9:29:09 AM] Derek: Data science ideas.pdf • ‎15 pages ‎document omitted
+‎[10/06/2021, 9:56:32 AM] Derek: ‎video omitted
+‎[10/06/2021, 1:17:31 PM] Khalid: Starbucks Challenge.ipynb ‎document omitted
+‎[10/06/2021, 1:17:31 PM] Khalid: bank-full.csv ‎document omitted
+‎[10/06/2021, 1:51:19 PM] Khalid: bank_marketing_data_analysis.ipynb ‎document omitted
+[10/06/2021, 2:29:54 PM] ‪+233 54 431 5670‬: https://www.kaggle.com/jaimebecerraguerrero/bank-marketing-data-analysis-eda-0-9-score
+[10/06/2021, 2:32:26 PM] ‪+233 54 431 5670‬: Check out for definitions and more info for the bank_marketing_data_analysis
+[10/06/2021, 6:29:19 PM] ‪+233 50 858 7628‬: ‎This message was deleted.
+‎[10/06/2021, 11:18:21 PM] ‪+233 26 638 5209‬: ‎image omitted
+‎[11/06/2021, 9:43:45 AM] Derek: auto-mpg.data ‎document omitted
+‎[11/06/2021, 9:43:45 AM] Derek: _Predicting Fuel Efficiency of Vehicles.ipynb ‎document omitted
+‎[11/06/2021, 9:49:00 AM] Derek: test.csv ‎document omitted
+‎[11/06/2021, 9:49:00 AM] Derek: train.csv ‎document omitted
+‎[11/06/2021, 9:49:00 AM] Derek: end-to-end-project-with-python (1).ipynb ‎document omitted
+[11/06/2021, 9:50:50 AM] ‪+233 54 047 7782‬: https://www.theverge.com/2021/6/10/22527476/google-machine-learning-chip-design-tpu-floorplanning
+‎[11/06/2021, 9:53:45 AM] ‪+233 50 858 7628‬: ‎image omitted
+‎[11/06/2021, 11:15:56 AM] Derek: How To Implement Classification In Machine Learning.pdf • ‎22 pages ‎document omitted
+[11/06/2021, 11:20:06 AM] ‪+233 24 506 6806‬: ‎This message was deleted.
+‎[11/06/2021, 3:25:17 PM] Derek: How to Calculate Feature Importance With Python.pdf • ‎38 pages ‎document omitted
+‎[11/06/2021, 3:25:38 PM] Derek: How to Choose a Feature Selection Method For Machine Learning.pdf • ‎15 pages ‎document omitted
+‎[14/06/2021, 9:32:58 AM] Derek: ML_full project_bank_marketing _campaign.ipynb ‎document omitted
+‎[14/06/2021, 9:32:58 AM] Derek: bank_marketing_campaign.csv ‎document omitted
+[15/06/2021, 6:07:04 AM] ‪+233 50 858 7628‬: ‎This message was deleted.
+[15/06/2021, 6:07:04 AM] ‪+233 50 858 7628‬: https://www.linkedin.com/posts/vacancies-in-ghana_recruitment-data-collection-activity-6810306076731420673-PJ0i
+‎[15/06/2021, 9:17:19 AM] Derek: nlp-glove-bert-tf-idf-lstm-explained (1).ipynb ‎document omitted
+‎[15/06/2021, 9:17:19 AM] Derek: sample_submission.csv ‎document omitted
+‎[15/06/2021, 9:17:19 AM] Derek: test.csv ‎document omitted
+‎[15/06/2021, 9:17:19 AM] Derek: train.csv ‎document omitted
+[15/06/2021, 9:17:56 AM] Derek: we are on
+‎[15/06/2021, 9:17:35 AM] Derek: GrammarandProductReviews.csv ‎document omitted
+‎[15/06/2021, 9:17:46 AM] Derek: Restaurant_Reviews.tsv ‎document omitted
+[15/06/2021, 10:53:28 AM] ‪+233 24 506 6806‬: .
+‎[15/06/2021, 11:04:54 AM] Derek: What is Natural Language Processing.pdf • ‎25 pages ‎document omitted

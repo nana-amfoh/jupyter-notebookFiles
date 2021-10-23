@@ -1,0 +1,532 @@
+5/3/21, 11:25 AM - +233 26 633 2394 created group "Data Sci Training Program"
+5/3/21, 11:25 AM - You were added
+5/13/21, 2:30 PM - Thomas Gtl: <Media omitted>
+5/13/21, 2:31 PM - +233 50 858 7628: Try to import pandas to your notebook
+5/13/21, 2:32 PM - +233 50 858 7628: and assign it as pd
+5/13/21, 2:32 PM - +233 50 858 7628: Import pandas as pd
+5/13/21, 2:32 PM - +233 50 858 7628: It will work
+5/13/21, 2:36 PM - Derek Lecturer: You don’t have pandas
+5/13/21, 2:36 PM - Derek Lecturer: Aa the error says pd is not defined
+5/13/21, 2:37 PM - Derek Lecturer: It’s obvious that pandas isn’t present
+5/13/21, 2:40 PM - Michael Okoe: @233243319300 , 
+
+I'm unable to install/ update pandas-profiling from the anaconda environment. I have tried using the command line to do so but still.
+
+Any help please?
+5/13/21, 3:44 PM - +233 55 723 3116: Sir please line 14 we don't have the file to that
+5/13/21, 4:31 PM - Derek Lecturer: Enter the whole URL
+5/13/21, 4:31 PM - Derek Lecturer: Make sure you’re connected to the internet
+5/13/21, 4:31 PM - Derek Lecturer: It’s not offline data
+5/13/21, 5:00 PM - +233 50 708 6317: <Media omitted>
+5/13/21, 5:01 PM - +233 50 708 6317: Boss please i got this error at line cell 23
+5/13/21, 6:04 PM - +233 55 723 3116: Well noted sir
+5/13/21, 6:08 PM - Derek Lecturer: It says that name isn’t in the column
+5/13/21, 6:09 PM - Derek Lecturer: Did you read the data with head() after loading it ?
+5/13/21, 6:10 PM - Derek Lecturer: The right variable is Births**
+5/13/21, 6:10 PM - Derek Lecturer: You’ve Birth
+5/13/21, 6:31 PM - +233 50 708 6317: Thanks boss
+5/13/21, 7:28 PM - +233 50 708 6317: <Media omitted>
+5/13/21, 7:28 PM - +233 50 708 6317: I got an error in the last cell
+5/13/21, 7:54 PM - Derek Lecturer: Cell 30?
+5/13/21, 7:54 PM - Derek Lecturer: On the pdf ?
+5/13/21, 8:00 PM - +233 50 708 6317: Cell 37
+5/13/21, 8:01 PM - +233 50 708 6317: Sorry boss I forgot
+It's up to cell 30
+5/13/21, 8:02 PM - Henry Gtl: <Media omitted>
+5/13/21, 8:06 PM - +233 50 708 6317: 😂😂😂
+5/13/21, 8:28 PM - Derek Lecturer: Nice
+5/14/21, 4:35 PM - Derek Lecturer: Oh I’ve not the materials on what we did yesterday and today
+5/14/21, 4:35 PM - Derek Lecturer: Let’s roll
+5/14/21, 4:37 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:37 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:38 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:38 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:38 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:39 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:39 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:40 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:46 PM - Derek Lecturer: This is the ones we did this week
+5/14/21, 4:46 PM - Derek Lecturer: Do well to practice further on it
+5/14/21, 4:46 PM - Derek Lecturer: Then lemme add the additional materials for your own practices
+5/14/21, 4:47 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:47 PM - Derek Lecturer: We did merging today
+5/14/21, 4:47 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:47 PM - Derek Lecturer: A further tutorial on pandas
+5/14/21, 4:48 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:48 PM - Derek Lecturer: This is on matplotlib
+5/14/21, 4:48 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:48 PM - Derek Lecturer: And this is on numpy
+5/14/21, 4:49 PM - Derek Lecturer: I’ve two materials on plotly and seaborn 
+
+Both are data visualization packages
+
+You need to install plotly from the anaconda environment
+5/14/21, 4:49 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:50 PM - Hawkins Gtl: Noting all accordingly
+5/14/21, 4:50 PM - Derek Lecturer: Plotly here
+5/14/21, 4:50 PM - Hawkins Gtl: Vim
+5/14/21, 4:50 PM - Derek Lecturer: <Media omitted>
+5/14/21, 4:50 PM - Derek Lecturer: And tbis is seaborn
+5/14/21, 4:50 PM - Hawkins Gtl: Not taught yet
+5/14/21, 4:51 PM - Derek Lecturer: Oh yes
+5/14/21, 4:51 PM - Derek Lecturer: This is all for today
+
+
+Enjoy your weekend
+5/14/21, 4:52 PM - Derek Lecturer: Ermm go to kaggle and download a dataset on Pokémon so you can practice with the materials
+5/14/21, 5:02 PM - Hawkins Gtl: Alright Dr
+5/15/21, 9:26 AM - Clement Gtl: Yes sir
+5/17/21, 9:23 AM - +233 27 959 0258: <Media omitted>
+5/17/21, 10:39 AM - Derek Lecturer: https://raw.githubusercontent.com/TirendazAcademy/PANDAS-TUTORIAL/main/Data/ca_san_diego_2019_02_25.csv
+5/17/21, 12:37 PM - +233 27 959 0258: <Media omitted>
+5/17/21, 4:18 PM - +233 27 959 0258: <Media omitted>
+5/18/21, 3:22 PM - +233 27 959 0258: <Media omitted>
+5/18/21, 3:22 PM - +233 27 959 0258: <Media omitted>
+5/18/21, 3:36 PM - Hawkins Gtl: Try to Install :
+
+1. Requests 
+2. Selenium
+3. Scrapy
+4. Beautiful soup
+
+Derek Said
+5/18/21, 3:37 PM - +233 26 270 7834: In anaconda environment?
+5/18/21, 4:27 PM - Derek Lecturer: BeautifulSoup**
+5/18/21, 4:29 PM - Hawkins Gtl: Yep
+5/18/21, 6:03 PM - Henry Gtl: how  about BeautifulSoup4, thats what im seeing
+5/18/21, 6:04 PM - Derek Lecturer: Yh that’s the one
+5/18/21, 6:04 PM - +233 27 459 8576: Ademola 
+Esther 
+You guys should dm 
+Plssss🙏
+5/19/21, 4:03 PM - +233 27 959 0258: <Media omitted>
+5/19/21, 4:03 PM - +233 27 959 0258: <Media omitted>
+5/19/21, 9:31 PM - Wilfred: Hi guys, please who knows the email address to which we can send abseentism requests/permission?
+5/19/21, 9:31 PM - Michael Gtl: nonbase@ghanatechlab.com
+5/19/21, 9:32 PM - Wilfred: Thanks prophet
+5/19/21, 9:32 PM - Michael Gtl: 🙏🏾
+5/20/21, 9:01 AM - Derek Lecturer: https://www.octoparse.com/download/windows
+5/20/21, 9:02 AM - Derek Lecturer: Download this application for web scraping
+5/20/21, 9:02 AM - Derek Lecturer: Search for your OS and download 
+Install it
+5/20/21, 9:04 AM - Derek Lecturer: Also 
+
+Pip install geopy
+5/20/21, 9:04 AM - Derek Lecturer: Or just install via the anaconda environment
+5/20/21, 9:30 AM - Derek Lecturer: https://www.coursera.org/collections/popular-free-courses.
+5/20/21, 9:30 AM - Michael Okoe: Thanks Derek
+5/20/21, 9:38 AM - +233 26 270 7834: Thanks boss💪🏾
+5/20/21, 11:04 AM - Derek Lecturer: <Media omitted>
+5/20/21, 11:18 AM - Richard Gtl: <Media omitted>
+5/20/21, 12:39 PM - +233 54 431 5670: https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions
+5/20/21, 2:09 PM - +233 27 959 0258: <Media omitted>
+5/20/21, 2:53 PM - +233 27 959 0258: https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions
+5/20/21, 4:01 PM - +233 27 959 0258: <Media omitted>
+5/20/21, 4:09 PM - +233 27 959 0258: <Media omitted>
+5/21/21, 5:05 AM - Clement Gtl: <Media omitted>
+5/21/21, 6:04 AM - Derek Lecturer: Because it’s an excel file
+5/21/21, 6:04 AM - Derek Lecturer: Just copy the path and run
+
+
+You’ll still get your results
+5/21/21, 3:42 PM - +233 27 959 0258: <Media omitted>
+5/21/21, 3:43 PM - +233 27 959 0258: <Media omitted>
+5/21/21, 3:46 PM - +233 27 959 0258: <Media omitted>
+5/21/21, 3:46 PM - +233 27 959 0258: <Media omitted>
+5/21/21, 4:13 PM - Derek Lecturer: https://raw.githubusercontent.com/Vihaanshah29/Haberman_dataset_EDA/main/haberman.csv
+5/21/21, 4:14 PM - Derek Lecturer: This is the dataset for this work
+5/21/21, 4:14 PM - Derek Lecturer: Goodluck
+5/21/21, 4:17 PM - Derek Lecturer: <Media omitted>
+5/22/21, 12:30 AM - +233 26 814 0240: Hi
+5/22/21, 12:37 PM - +233 50 858 7628: Derek please any updates on our shift system to class
+5/22/21, 12:55 PM - Derek Lecturer: Hi class
+
+We are continuing with the shift 
+
+Thank you
+5/22/21, 12:55 PM - Derek Lecturer: Till further notice
+5/22/21, 12:55 PM - +233 27 459 8576: Thank you💃
+5/22/21, 12:55 PM - +233 50 858 7628: Thanks
+5/22/21, 1:00 PM - Derek Lecturer: Sure
+5/22/21, 4:15 PM - +233 26 814 0240: @Derek I was trying hands on the dataset we worked on yesterday but stucked with this errors👇
+5/22/21, 4:15 PM - +233 26 814 0240: <Media omitted>
+5/22/21, 4:16 PM - Jay Cutie🤗: Check your spelling of 'gausshyper'
+5/22/21, 4:17 PM - +233 26 814 0240: Ok🙏
+5/22/21, 4:19 PM - +233 26 814 0240: Sharp
+5/22/21, 4:19 PM - Jay Cutie🤗: 🤝🏻
+5/22/21, 4:19 PM - +233 26 814 0240: <Media omitted>
+5/22/21, 4:19 PM - +233 26 814 0240: Tanks once more
+5/22/21, 4:38 PM - +233 26 814 0240: <Media omitted>
+5/22/21, 4:38 PM - +233 26 814 0240: And plz wat might have the problem here
+5/22/21, 4:39 PM - +233 26 814 0240: *been
+5/22/21, 4:39 PM - Henry Gtl: its  not suppose to be on one line
+5/22/21, 4:40 PM - Jay Cutie🤗: 'x =', 'y =', you missed that
+5/22/21, 4:40 PM - +233 26 814 0240: <Media omitted>
+5/22/21, 4:41 PM - +233 26 814 0240: That goes with d subsequent line
+5/22/21, 4:42 PM - Jay Cutie🤗: either ways.
+5/22/21, 4:43 PM - +233 26 814 0240: 🙏
+5/22/21, 4:43 PM - +233 27 065 5742: Champion programmers. That’s great. Keep it up🙏🏼
+5/22/21, 4:45 PM - Jay Cutie🤗: You need to set your x and y parameters to sepal_length and petal_length, as well as the source of the data.
+The syntax should read thus:
+
+sns.jointplot(x = 'sepal_length', y = 'petal_length', data = iris)
+5/22/21, 4:47 PM - +233 26 814 0240: Ada!
+5/22/21, 4:47 PM - Derek Lecturer: Programmers don’t want to take time to sort out errors
+5/22/21, 4:47 PM - Derek Lecturer: They want easy ways
+5/22/21, 4:47 PM - Derek Lecturer: <Media omitted>
+5/22/21, 4:47 PM - +233 26 814 0240: Afa!
+5/22/21, 4:48 PM - Jay Cutie🤗: 🤣🤣🤣🤣
+5/22/21, 4:48 PM - +233 26 814 0240: 3y3 b3 fe3m
+5/22/21, 4:48 PM - Michael Gtl: I am here for this vawulence
+5/22/21, 4:49 PM - Henry Gtl: 😂😂😂
+5/22/21, 4:49 PM - Derek Lecturer: <Media omitted>
+5/22/21, 4:51 PM - Michael Gtl: <Media omitted>
+5/23/21, 2:22 AM - +233 26 814 0240: <Media omitted>
+5/23/21, 2:24 AM - +233 26 814 0240: got thix
+5/23/21, 7:07 AM - Derek Lecturer: Move
+5/23/21, 7:08 AM - Derek Lecturer: <Media omitted>
+5/23/21, 7:09 AM - Derek Lecturer: Kindly add it… it’s part of one of your assignment
+5/23/21, 10:48 AM - +233 26 814 0240: K
+5/23/21, 1:02 PM - Esther Gtl: Goodafternoon
+5/23/21, 1:03 PM - Esther Gtl: Sammy pls dm me
+5/23/21, 1:08 PM - +233 50 858 7628: Ok
+5/24/21, 4:30 PM - Derek Lecturer: <Media omitted>
+5/24/21, 4:30 PM - Derek Lecturer: <Media omitted>
+5/24/21, 5:18 PM - Afriyie whatsapp: Hi @233243319300, 
+You said you would share your zoom link for your session  with us.
+5/24/21, 5:18 PM - Derek Lecturer: Hi there, 
+
+You are invited to a Zoom webinar. 
+When: May 27, 2021 06:00 PM Reykjavik 
+Topic: Webinar: New APIs platform (Chenosis) and Effective Data Collection for AI in Africa
+
+Register in advance for this webinar:
+https://us02web.zoom.us/webinar/register/WN_a6SpXyllT6mNNcXjqC6Nrw
+
+
+After registering, you will receive a confirmation email containing information about joining the webinar.
+5/24/21, 5:18 PM - Derek Lecturer: Thank you
+5/24/21, 7:51 PM - Derek Lecturer: https://dev.mysql.com/downloads/mysql/
+5/24/21, 7:51 PM - Derek Lecturer: https://dev.mysql.com/downloads/workbench/
+5/24/21, 7:51 PM - Derek Lecturer: <Media omitted>
+5/24/21, 7:51 PM - Derek Lecturer: Please for the SQL kindly download and install these instead
+5/24/21, 7:52 PM - +233 26 814 0240: Noted sir!
+5/24/21, 8:39 PM - +233 57 558 5938: 🤝🏽🤝🏽🤝🏽🤝🏽
+5/25/21, 6:42 AM - Emmanuel GTL: This message was deleted
+5/25/21, 9:10 AM - Esther Gtl: Gm
+5/25/21, 12:15 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:15 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:15 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:15 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:16 PM - +233 27 959 0258: <Media omitted>
+5/25/21, 12:27 PM - Esther Gtl: .
+5/25/21, 12:44 PM - Derek Lecturer: So that’s all the materials we using for the SQL
+5/25/21, 12:45 PM - +233 27 065 5742: K thanks boss
+5/25/21, 12:45 PM - Derek Lecturer: And there’s a first assignment on designing an ER Model for any company that manually work with data
+5/25/21, 12:45 PM - Derek Lecturer: It’s a group work
+5/25/21, 12:46 PM - Derek Lecturer: So use your existing group for the work
+
+
+Submission is Friday 8:49pm
+5/25/21, 12:46 PM - Derek Lecturer: Submit via ernest@ghanatechlab.com
+5/25/21, 3:04 PM - Clement Gtl: import okay as ok
+*Run*
+5/25/21, 5:36 PM - Rich: For🙄
+5/25/21, 7:14 PM - Thomas Gtl: <Media omitted>
+5/25/21, 7:37 PM - Henry Gtl: the company no get name??
+5/25/21, 7:51 PM - Michael Gtl: Blu Penguin
+5/25/21, 7:51 PM - Michael Gtl: https://theblupenguin.com/
+5/25/21, 7:52 PM - Michael Gtl: See the email address at the bottom.
+
+Speculation though. Could be hiring for a diff company
+5/27/21, 6:02 PM - +233 27 959 0258: Let join the webinar pls
+5/27/21, 7:03 PM - Wilfred: I believe we are meeting tomorrow. Or?
+5/27/21, 7:03 PM - Michael Gtl: This message was deleted
+5/27/21, 7:04 PM - Michael Gtl: This message was deleted
+5/27/21, 7:04 PM - Derek Lecturer: <Media omitted>
+5/27/21, 7:04 PM - Derek Lecturer: We are live now
+5/27/21, 7:08 PM - Michael Gtl: Oh wrong group please
+5/27/21, 8:28 PM - Michael Gtl: 👏👏
+
+Great presentation. I had a fun time recognising some of the terms and myths you have talked about it in class. Would it be possible to have the slides?
+
+Thanks!
+5/27/21, 8:29 PM - Emmanuel GTL: I second
+5/27/21, 8:44 PM - Derek Lecturer: No problem
+5/27/21, 9:35 PM - +233 50 858 7628: ???
+5/28/21, 10:49 AM - +233 27 959 0258: <Media omitted>
+5/28/21, 10:49 AM - +233 27 959 0258: <Media omitted>
+5/28/21, 10:49 AM - +233 27 959 0258: <Media omitted>
+5/28/21, 11:36 AM - +233 27 959 0258: <Media omitted>
+5/28/21, 1:08 PM - Derek Lecturer: <Media omitted>
+5/28/21, 1:19 PM - Derek Lecturer: <Media omitted>
+5/28/21, 1:20 PM - Derek Lecturer: <Media omitted>
+5/28/21, 1:21 PM - Derek Lecturer: So this is the assignment 
+
+An individual assignment 
+Submission is on Monday morning
+5/28/21, 2:18 PM - +233 27 959 0258: <Media omitted>
+5/28/21, 2:18 PM - +233 27 959 0258: <Media omitted>
+5/28/21, 8:19 PM - Esther Gtl: Hello pls afternoon group 3 members pls send me yur names
+5/28/21, 8:20 PM - Rich: Are u abroad please😃😃
+5/28/21, 8:20 PM - Esther Gtl: No pls
+5/28/21, 8:21 PM - Esther Gtl: I want to add it to our work pls
+5/28/21, 8:21 PM - Rich: And is afternoon at your end
+5/28/21, 8:23 PM - Michael Okoe: 🤣🤣🤣
+5/28/21, 8:24 PM - Michael Okoe: Maybe the message was typed around 1pm this afternoon, but because of ECG nti, it is now coming. DumSor....🤷🏾‍♂️🤷🏾‍♂️🤷🏾‍♂️
+5/28/21, 8:24 PM - Derek Lecturer: She meant those in afternoon and are in group 3
+5/28/21, 8:25 PM - Esther Gtl: Yh
+5/28/21, 8:25 PM - +233 57 558 5938: 😂😂
+5/28/21, 8:25 PM - Hawkins Gtl: <Media omitted>
+5/28/21, 8:26 PM - Jay Cutie🤗: Exactly
+5/28/21, 8:26 PM - Michael Okoe: Ooooookkkaayyyyyy!!!!!!!
+
+🤣🤣🤣
+5/29/21, 3:13 PM - +233 26 633 2394: Hello everyone
+5/29/21, 3:13 PM - +233 26 633 2394: Good news 💃🏾💃🏾💃🏾
+5/29/21, 3:13 PM - Esther Gtl: 👀
+5/29/21, 3:15 PM - Jay Cutie🤗: 👂🏻
+5/29/21, 3:16 PM - +233 26 633 2394: Starting Monday 31st May 2021 our normal class schedules resumes fully.
+
+Which means we will come to class from 9:00am to 3:00pm.
+
+*PLEASE NOTE*
+1. NO LATENESS 
+2. NO MISSING CLASS
+
+Tell a friend to tell a friend to tell another friend 😁😁😁
+See you all on Monday...
+5/29/21, 3:17 PM - Jay Cutie🤗: 🕺🏻🕺🏻🕺🏻🕺🏻
+5/29/21, 3:17 PM - Esther Gtl: I weak
+5/29/21, 3:19 PM - Emmanuel GTL: 🤐🤐🤐🤐
+5/29/21, 3:19 PM - +233 26 633 2394: Receive strength in Jesus name😃😅🤣
+5/29/21, 3:19 PM - +233 26 633 2394: Emmanuel speak wae
+5/29/21, 3:19 PM - +233 26 633 2394: I miss seeing you all together so come wae
+5/29/21, 3:20 PM - +233 26 633 2394: I will give you choco milo😁
+5/29/21, 3:20 PM - Esther Gtl: <Media omitted>
+5/29/21, 3:21 PM - Hawkins Gtl: The morning guys just make happy sekof them go see the afternoon dudes. Ei!
+5/29/21, 3:23 PM - Emmanuel GTL: aaaaa beg oooo.... 
+Is this really the good newz🤷🏽‍♂️
+5/29/21, 3:24 PM - +233 26 633 2394: Nanka....
+5/29/21, 3:25 PM - Emmanuel GTL: I 🙈
+5/29/21, 3:26 PM - Emmanuel GTL: I hear wai...
+I will buy you chupa-chops when I come across one😁🤗🤗
+5/29/21, 3:27 PM - +233 26 633 2394: See you all on Monday 😁😁😁
+5/29/21, 3:27 PM - Henry Gtl: this aint a Good news
+5/29/21, 3:29 PM - +233 26 633 2394: See Henry too😏
+5/29/21, 3:30 PM - Emmanuel GTL: Na true laaa
+ɛɛɛrr
+5/29/21, 3:30 PM - Emmanuel GTL: 😉😉
+5/29/21, 3:31 PM - +233 26 633 2394: <Media omitted>
+5/29/21, 3:32 PM - Emmanuel GTL: <Media omitted>
+5/29/21, 3:34 PM - +233 26 633 2394: Since we started running shifts some people just come to close the class...
+
+I know all of you...
+
+No lateness again ooooo...
+5/31/21, 9:43 AM - Derek Lecturer: <Media omitted>
+5/31/21, 9:46 AM - +233 27 959 0258: <Media omitted>
+5/31/21, 10:43 AM - Derek Lecturer: <Media omitted>
+5/31/21, 2:14 PM - +233 27 959 0258: <Media omitted>
+5/31/21, 5:36 PM - Derek Lecturer: <Media omitted>
+5/31/21, 5:37 PM - Derek Lecturer: ahead of data preprocessing class from tomorrow
+6/1/21, 12:49 PM - Derek Lecturer: <Media omitted>
+6/1/21, 3:31 PM - +233 27 959 0258: <Media omitted>
+6/1/21, 5:07 PM - Clement Gtl: Please what of the notebook file
+6/2/21, 11:31 AM - +233 27 959 0258: https://docs.google.com/forms/d/e/1FAIpQLSeu6pROCxeD0VeypDD2RFJr-MbRQpCsGO2iDGGB8eRWngz08Q/viewform
+6/2/21, 6:31 PM - Rich: You deleted this message
+6/2/21, 6:31 PM - Rich: Henry please dm
+6/2/21, 6:47 PM - Derek Lecturer: <Media omitted>
+6/3/21, 8:52 AM - Derek Lecturer: <Media omitted>
+6/3/21, 8:52 AM - Derek Lecturer: <Media omitted>
+6/3/21, 11:04 AM - +233 27 959 0258: <Media omitted>
+6/3/21, 1:24 PM - Derek Lecturer: <Media omitted>
+6/3/21, 1:28 PM - Derek Lecturer: <Media omitted>
+6/4/21, 1:43 PM - +233 27 959 0258: <Media omitted>
+6/4/21, 1:43 PM - +233 27 959 0258: <Media omitted>
+6/4/21, 1:53 PM - +233 27 959 0258: <Media omitted>
+6/4/21, 1:53 PM - Derek Lecturer: derek@ghanatechlab.com
+6/4/21, 2:08 PM - +233 27 959 0258: <Media omitted>
+6/4/21, 2:08 PM - +233 27 959 0258: <Media omitted>
+6/4/21, 2:08 PM - +233 27 959 0258: <Media omitted>
+6/4/21, 2:08 PM - +233 27 959 0258: <Media omitted>
+6/4/21, 2:08 PM - +233 27 959 0258: <Media omitted>
+6/4/21, 2:08 PM - +233 27 959 0258: <Media omitted>
+6/4/21, 2:08 PM - +233 27 959 0258: <Media omitted>
+6/4/21, 2:08 PM - +233 27 959 0258: <Media omitted>
+6/4/21, 2:08 PM - +233 27 959 0258: <Media omitted>
+6/4/21, 2:08 PM - +233 27 959 0258: <Media omitted>
+6/5/21, 12:20 AM - Derek Lecturer: SQL was valuable in 1990s and it’s arguably more valuable today. If you’re working with data it is a must know. 
+
+10 places to start your journey:
+
+1. Zachary Thomas' SQL Questions https://lnkd.in/g-JJzuD
+2. Select * SQL: https://selectstarsql.com/
+3. Leetcode: https://lnkd.in/g3c5JGC
+4. LinkedIn Learning: https://lnkd.in/gQXFc4n
+5. Window Functions: https://lnkd.in/g3RtPCJ
+6. HackerRank: https://lnkd.in/grv_9sB
+7. W3 Schools: https://lnkd.in/gJPfrrv
+8. CodeAcademy: https://lnkd.in/gT5xmpN
+9. SQLZoo: https://sqlzoo.net/
+10. SQL Bolt: https://sqlbolt.com/
+6/5/21, 12:20 AM - Michael Okoe: Thank you
+6/5/21, 7:07 AM - +233 57 558 5938: 🙌🏾🙌🏾🙌🏾🙌🏾🤝🏽🤝🏽🤝🏽
+6/5/21, 8:32 AM - Emmanuel GTL: Akpe
+6/5/21, 9:48 AM - Esther Gtl: 🤝
+6/6/21, 4:39 PM - Derek Lecturer: I received mails from Group one, three, four and five
+6/6/21, 4:39 PM - Derek Lecturer: Group missing
+6/6/21, 4:39 PM - Derek Lecturer: Kindly check and send
+6/6/21, 4:42 PM - Derek Lecturer: Sorry 
+It’s rather group one, two, three and four 
+
+No group five yet 
+
+Thanks
+6/7/21, 3:51 PM - Derek Lecturer: https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit?ts=60bd228d#slide=id.g183f28bdc3_0_82
+6/7/21, 4:10 PM - Esther Gtl: 👍
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:30 AM - Derek Lecturer: <Media omitted>
+6/8/21, 9:50 AM - Derek Lecturer: Imagine you are a manager of a coffee shop. Your coffee shop opens 24h daily. The daily schedule is divided into 8 time windows. 
+
+Staff members need to be scheduled into 4 different shifts as shown in the image below. Each time window requires a different amount of staff.
+
+How can you decide how many staff workers needed per shift? 
+
+Instead of spending hours trying to figure this out, you can utilize your Python skill to find the optimal solutions for this problem
+6/8/21, 10:57 AM - Derek Lecturer: <Media omitted>
+6/8/21, 11:41 AM - Derek Lecturer: The City of Kigali in partnership with GURARIDE Rwanda has embarked on a campaign to promote non-motorized transport as one of the resource efficient travel modes that is environmentally friendly, improves health of citizens, and is safe for users.
+6/8/21, 11:41 AM - Derek Lecturer: <Media omitted>
+6/8/21, 11:41 AM - Derek Lecturer: <Media omitted>
+6/8/21, 11:41 AM - Derek Lecturer: <Media omitted>
+6/8/21, 11:41 AM - Derek Lecturer: <Media omitted>
+6/8/21, 11:41 AM - Derek Lecturer: <Media omitted>
+6/8/21, 1:19 PM - Derek Lecturer: <Media omitted>
+6/8/21, 1:19 PM - Derek Lecturer: <Media omitted>
+6/8/21, 1:19 PM - Derek Lecturer: <Media omitted>
+6/8/21, 3:24 PM - Derek Lecturer: Best_Model ={'Model':['LinearRegression','RandomForestRegressor','CatBoost Regressor', 'XGBoost Regressor','KNN Regressor','AdaBoost Regressor','Decision_Tree Regressor','Lgb Regressor','ExtraTree Regressor','SupportVector Regressor'],
+        'R2_Score':[LR_r2_score,RF_r2_score,CatBoost_r2_score,xgb_r2_score,KNN_r2_score,Ada_r2_score,Dtree_r2_score,lgb_r2_score,Extr_r2_score,svr_r2_score],'RMSE':[LR_RMSE,RF_RMSE,CatBoost_RMSE,xgb_RMSE,KNN_RMSE,Ada_RMSE,Dtree_RMSE,lgb_RMSE,Extr_RMSE,svr_RMSE]}
+Best_Model =pd.DataFrame(Best_Model)
+Best_Model=Best_Model.set_index('Model')
+Best_Model
+6/9/21, 1:31 PM - Derek Lecturer: I’m here
+6/9/21, 1:33 PM - +233 27 065 5742: Welcome🙏🏼
+6/9/21, 3:23 PM - Esther Gtl: Good evening. Do you know anyone who might be one of the following and can also help recruit others with the skills(will mention it to you below) Trying to egt a team. 
+
+Data Analyst 
+Data manager 
+Data Scientist 
+Software builder 
+
+Skills: able to develop quality code within SQL and either R or Python. Experience working with APIs as well as knowledge of AWS (Redshift) and Google Big Query
+
+Also looking for a cyber security Specialist. 
+
+Work experience; not necessarily a criteria
+6/9/21, 3:23 PM - Esther Gtl: contact 0244958967
+6/9/21, 9:13 PM - Henry Gtl: <Media omitted>
+6/10/21, 7:18 AM - +233 27 959 0258: <Media omitted>
+6/10/21, 7:18 AM - +233 27 959 0258: <Media omitted>
+6/10/21, 7:21 AM - Emmanuel GTL: Thank You🤝🏾
+6/10/21, 9:28 AM - Derek Lecturer: <Media omitted>
+6/10/21, 9:29 AM - Derek Lecturer: <Media omitted>
+6/10/21, 9:29 AM - Derek Lecturer: <Media omitted>
+6/10/21, 9:29 AM - Derek Lecturer: <Media omitted>
+6/10/21, 9:29 AM - Derek Lecturer: <Media omitted>
+6/10/21, 9:29 AM - Derek Lecturer: <Media omitted>
+6/10/21, 9:56 AM - Derek Lecturer: <Media omitted>
+6/10/21, 1:17 PM - +233 27 959 0258: <Media omitted>
+6/10/21, 1:17 PM - +233 27 959 0258: <Media omitted>
+6/10/21, 1:51 PM - +233 27 959 0258: <Media omitted>
+6/10/21, 2:29 PM - +233 54 431 5670: https://www.kaggle.com/jaimebecerraguerrero/bank-marketing-data-analysis-eda-0-9-score
+6/10/21, 2:32 PM - +233 54 431 5670: Check out for definitions and more info for the bank_marketing_data_analysis
+6/10/21, 6:29 PM - +233 50 858 7628: This message was deleted
+6/10/21, 11:18 PM - Henry Gtl: <Media omitted>
+6/11/21, 9:43 AM - Derek Lecturer: <Media omitted>
+6/11/21, 9:43 AM - Derek Lecturer: <Media omitted>
+6/11/21, 9:49 AM - Derek Lecturer: <Media omitted>
+6/11/21, 9:49 AM - Derek Lecturer: <Media omitted>
+6/11/21, 9:49 AM - Derek Lecturer: <Media omitted>
+6/11/21, 9:50 AM - Esther Gtl: https://www.theverge.com/2021/6/10/22527476/google-machine-learning-chip-design-tpu-floorplanning
+6/11/21, 9:53 AM - +233 50 858 7628: <Media omitted>
+6/11/21, 11:15 AM - Derek Lecturer: <Media omitted>
+6/11/21, 11:20 AM - Emmanuel GTL: This message was deleted
+6/11/21, 3:29 PM - Derek Lecturer: <Media omitted>
+6/11/21, 3:29 PM - Derek Lecturer: <Media omitted>
+6/14/21, 9:33 AM - Derek Lecturer: <Media omitted>
+6/14/21, 9:33 AM - Derek Lecturer: <Media omitted>
+6/15/21, 6:07 AM - +233 50 858 7628: This message was deleted
+6/15/21, 6:07 AM - +233 50 858 7628: https://www.linkedin.com/posts/vacancies-in-ghana_recruitment-data-collection-activity-6810306076731420673-PJ0i
+6/15/21, 9:17 AM - Derek Lecturer: <Media omitted>
+6/15/21, 9:17 AM - Derek Lecturer: <Media omitted>
+6/15/21, 9:17 AM - Derek Lecturer: <Media omitted>
+6/15/21, 9:17 AM - Derek Lecturer: <Media omitted>
+6/15/21, 9:17 AM - Derek Lecturer: we are on
+6/15/21, 9:18 AM - Derek Lecturer: <Media omitted>
+6/15/21, 9:18 AM - Derek Lecturer: <Media omitted>
+6/15/21, 10:53 AM - Emmanuel GTL: .
+6/15/21, 11:04 AM - Derek Lecturer: <Media omitted>
+6/15/21, 3:16 PM - Emmanuel GTL: <Media omitted>
+6/15/21, 3:17 PM - +233 57 558 5938: <Media omitted>
+6/15/21, 3:17 PM - Clement Gtl: <Media omitted>
+6/15/21, 3:17 PM - Derek Lecturer: <Media omitted>
+6/15/21, 3:17 PM - +233 50 858 7628: <Media omitted>
+6/15/21, 3:17 PM - +233 27 201 2087: <Media omitted>
+6/15/21, 3:18 PM - Rich: <Media omitted>
+6/15/21, 3:18 PM - Henry Gtl: <Media omitted>
+6/15/21, 3:19 PM - Richmond GTL: <Media omitted>
+6/15/21, 3:19 PM - Esther Gtl: <Media omitted>
+6/15/21, 3:20 PM - Richard Gtl: <Media omitted>
+6/15/21, 3:20 PM - +233 50 138 0776: This message was deleted
+6/15/21, 3:27 PM - +233 26 270 7834: <Media omitted>
+6/15/21, 3:44 PM - Derek Lecturer: <Media omitted>
+6/16/21, 10:05 AM - Derek Lecturer: <Media omitted>
+6/16/21, 10:05 AM - Derek Lecturer: <Media omitted>
+6/16/21, 10:05 AM - Derek Lecturer: <Media omitted>
+6/16/21, 10:05 AM - Derek Lecturer: <Media omitted>
+6/16/21, 10:05 AM - Derek Lecturer: <Media omitted>
+6/16/21, 10:05 AM - Emmanuel GTL: 🤔
+6/16/21, 10:10 AM - Derek Lecturer: <Media omitted>
